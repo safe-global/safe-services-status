@@ -32,13 +32,17 @@ status-website:
   logoUrl: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
   name: Gnosis Safe Services Status
   introTitle: Status for the **Gnosis Safe** backend
-  introMessage: Gnosis Safe backend status page
+  introMessage: Gnosis Safe services status
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/gnosis/safe-services-status
     - title: Safe Transaction Service
       href: https://github.com/gnosis/safe-transaction-service
-    - title: SAfe Client Gateway
+    - title: Safe Client Gateway
       href: https://github.com/gnosis/safe-client-gateway
+    - title: Help docs
+      href: https://help.gnosis-safe.io/en/
+    - title: Dev docs
+      href: https://docs.gnosis.io/safe/
+    - title: Github
+      href: https://github.com/gnosis/safe-services-status
