@@ -22,18 +22,20 @@
     "url": "https://safe-client.mainnet.gnosis.io/health/",
     "icon": "https://favicons.githubusercontent.com/safe-client.mainnet.gnosis.io",
     "slug": "safe-client-gateway-mainnet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
     "time": 1877,
     "timeDay": 1877,
     "timeWeek": 1877,
     "timeMonth": 1877,
     "timeYear": 1877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-05": 0
+    }
   },
   {
     "name": "Safe Client Gateway (Rinkeby)",
