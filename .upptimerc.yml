@@ -36,7 +36,7 @@ status-website:
   favicon: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
   navbar:
     - title: Status
-      href: safe-services-status
+      href: https://gnosis.github.io/safe-services-status
     - title: Safe Transaction Service
       href: https://github.com/gnosis/safe-transaction-service
     - title: Safe Client Gateway
