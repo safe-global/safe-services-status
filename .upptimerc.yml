@@ -23,3 +23,22 @@ sites:
     url: https://safe-transaction.volta.gnosis.io/check/
   - name: Safe Tx Service Arbitrum
     url: https://safe-transaction.arbitrum.gnosis.io/check/
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /safe-services-status
+  logoUrl: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
+  name: Gnosis Safe Services Status
+  introTitle: Status for the **Gnosis Safe** backend
+  introMessage: Gnosis Safe backend status page
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/gnosis/safe-services-status
+    - title: Safe Transaction Service
+      href: https://github.com/gnosis/safe-transaction-service
+    - title: SAfe Client Gateway
+      href: https://github.com/gnosis/safe-client-gateway
