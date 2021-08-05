@@ -3,25 +3,29 @@ owner: gnosis # Your GitHub organization or username, where this repository live
 repo: safe-services-status # The name of this repository
 skipTopicsUpdate: true
 sites:
-  - name: Unified Safe Client Gateway
+  - name: Safe Client Gateway (Unified)
     url: https://safe-client.gnosis.io/health/
-  - name: Safe Tx Service Mainnet
+  - name: Safe Client Gateway (Mainnet)
+    url: https://safe-client.mainnet.gnosis.io/health/
+  - name: Safe Client Gateway (Rinkeby)
+    url: https://safe-client.rinkeby.gnosis.io/health/
+  - name: Safe Tx Service (Mainnet)
     url: https://safe-transaction.mainnet.gnosis.io/check/
-  - name: Safe Tx Service Rinkeby
+  - name: Safe Tx Service (Rinkeby)
     url: https://safe-transaction.rinkeby.gnosis.io/check/
-  - name: Safe Tx Service xDai
+  - name: Safe Tx Service (xDai)
     url: https://safe-transaction.xdai.gnosis.io/check/
-  - name: Safe Tx Service Goerli
+  - name: Safe Tx Service (Goerli)
     url: https://safe-transaction.goerli.gnosis.io/check/
-  - name: Safe Tx Service Binance Smart Chain
+  - name: Safe Tx Service (Binance Smart Chain)
     url: https://safe-transaction.bsc.gnosis.io/check/
-  - name: Safe Tx Service Polygon (Matic)
+  - name: Safe Tx Service (Polygon - Matic)
     url: https://safe-transaction.polygon.gnosis.io/check/
-  - name: Safe Tx Service EWC
+  - name: Safe Tx Service (EWC)
     url: https://safe-transaction.ewc.gnosis.io/check/
-  - name: Safe Tx Service Volta
+  - name: Safe Tx Service (Volta)
     url: https://safe-transaction.volta.gnosis.io/check/
-  - name: Safe Tx Service Arbitrum
+  - name: Safe Tx Service (Arbitrum)
     url: https://safe-transaction.arbitrum.gnosis.io/check/
 
 status-website:
