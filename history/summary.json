@@ -22,19 +22,19 @@
     "url": "https://safe-client.mainnet.gnosis.io/health/",
     "icon": "https://favicons.githubusercontent.com/safe-client.mainnet.gnosis.io",
     "slug": "safe-client-gateway-mainnet",
-    "status": "down",
-    "uptime": "76.23%",
-    "uptimeDay": "76.23%",
-    "uptimeWeek": "76.23%",
-    "uptimeMonth": "76.23%",
-    "uptimeYear": "76.23%",
-    "time": 9795,
-    "timeDay": 9795,
-    "timeWeek": 9795,
-    "timeMonth": 9795,
-    "timeYear": 9795,
+    "status": "up",
+    "uptime": "44.86%",
+    "uptimeDay": "44.86%",
+    "uptimeWeek": "44.86%",
+    "uptimeMonth": "44.86%",
+    "uptimeYear": "44.86%",
+    "time": 7782,
+    "timeDay": 7782,
+    "timeWeek": 7782,
+    "timeMonth": 7782,
+    "timeYear": 7782,
     "dailyMinutesDown": {
-      "2021-08-05": 10
+      "2021-08-05": 41
     }
   },
   {
