@@ -1,7 +1,7 @@
 # Change these first
 owner: gnosis # Your GitHub organization or username, where this repository lives
 repo: safe-services-status # The name of this repository
-
+skipTopicsUpdate: true
 sites:
   - name: Unified Safe Client Gateway
     url: https://safe-client.gnosis.io/health/
@@ -33,6 +33,7 @@ status-website:
   name: Gnosis Safe Services Status
   introTitle: Status for the **Gnosis Safe** backend
   introMessage: Gnosis Safe services status
+  favicon: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
   navbar:
     - title: Status
       href: /
