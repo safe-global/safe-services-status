@@ -4,9 +4,9 @@
     "url": "https://safe-client.gnosis.io/health/",
     "icon": "https://favicons.githubusercontent.com/safe-client.gnosis.io",
     "slug": "safe-client-gateway-unified",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 743,
     "timeMonth": 729,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "Safe Client Gateway (Mainnet)",
