@@ -153,19 +153,19 @@
     "url": "https://safe-transaction.polygon.gnosis.io/check/",
     "icon": "https://favicons.githubusercontent.com/safe-transaction.polygon.gnosis.io",
     "slug": "safe-tx-service-polygon-matic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 643,
-    "timeWeek": 679,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 658,
+    "timeDay": 628,
+    "timeWeek": 670,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2021-08-22": 0
+      "2021-08-22": 10
     }
   },
   {
