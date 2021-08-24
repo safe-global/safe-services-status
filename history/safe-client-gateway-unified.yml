@@ -1,7 +1,7 @@
 url: https://safe-client.gnosis.io/health/
-status: down
-code: 503
-responseTime: 678
-lastUpdated: 2021-08-24T20:30:23.621Z
+status: up
+code: 200
+responseTime: 788
+lastUpdated: 2021-08-24T20:37:57.255Z
 startTime: Thu Aug 05 2021 13:18:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
