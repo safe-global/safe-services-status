@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 700,
     "timeDay": 720,
-    "timeWeek": 688,
+    "timeWeek": 675,
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
@@ -139,18 +139,20 @@
     "url": "https://safe-transaction.bsc.gnosis.io/check/",
     "icon": "https://favicons.githubusercontent.com/safe-transaction.bsc.gnosis.io",
     "slug": "safe-tx-service-binance-smart-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 708,
-    "timeWeek": 672,
-    "timeMonth": 679,
-    "timeYear": 679,
-    "dailyMinutesDown": {}
+    "time": 680,
+    "timeDay": 706,
+    "timeWeek": 676,
+    "timeMonth": 680,
+    "timeYear": 680,
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   },
   {
     "name": "Safe Tx Service (Polygon - Matic)",
