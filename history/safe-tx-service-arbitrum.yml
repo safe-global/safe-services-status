@@ -1,7 +1,7 @@
 url: https://safe-transaction.arbitrum.gnosis.io/check/
-status: up
-code: 200
-responseTime: 785
-lastUpdated: 2021-09-26T23:02:41.956Z
+status: down
+code: 404
+responseTime: 549
+lastUpdated: 2021-09-27T10:41:54.713Z
 startTime: Thu Aug 05 2021 10:30:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
