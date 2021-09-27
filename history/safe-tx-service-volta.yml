@@ -1,7 +1,7 @@
 url: https://safe-transaction.volta.gnosis.io/check/
-status: down
-code: 404
-responseTime: 612
-lastUpdated: 2021-09-27T10:41:51.972Z
+status: up
+code: 200
+responseTime: 669
+lastUpdated: 2021-09-27T10:48:35.585Z
 startTime: Thu Aug 05 2021 10:30:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
