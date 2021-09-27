@@ -1,7 +1,7 @@
 url: https://safe-transaction.ewc.gnosis.io/check/
-status: down
-code: 404
-responseTime: 669
-lastUpdated: 2021-09-27T10:41:48.268Z
+status: up
+code: 200
+responseTime: 688
+lastUpdated: 2021-09-27T10:48:32.799Z
 startTime: Thu Aug 05 2021 10:30:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
