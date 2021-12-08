@@ -1,7 +1,7 @@
 url: https://safe-transaction.bsc.gnosis.io/check/
-status: down
-code: 503
-responseTime: 699
-lastUpdated: 2021-12-08T15:03:42.513Z
+status: up
+code: 200
+responseTime: 729
+lastUpdated: 2021-12-08T15:13:27.751Z
 startTime: Thu Aug 05 2021 10:30:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
