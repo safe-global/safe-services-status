@@ -155,8 +155,8 @@
     "slug": "safe-tx-service-binance-smart-chain",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.68%",
     "time": 810,
@@ -165,7 +165,6 @@
     "timeMonth": 637,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2022-01-08": 4,
       "2021-12-12": 16,
       "2021-12-04": 166,
       "2021-11-30": 18,
