@@ -1,7 +1,7 @@
 url: https://safe-transaction.mainnet.gnosis.io/check/
-status: up
-code: 200
-responseTime: 731
-lastUpdated: 2022-01-27T23:46:09.074Z
+status: down
+code: 503
+responseTime: 662
+lastUpdated: 2022-01-28T04:08:17.768Z
 startTime: Thu Aug 05 2021 10:30:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
