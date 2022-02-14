@@ -50,18 +50,20 @@
     "url": "https://safe-client.rinkeby.gnosis.io/health/",
     "icon": "https://favicons.githubusercontent.com/safe-client.rinkeby.gnosis.io",
     "slug": "safe-client-gateway-rinkeby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 422,
-    "timeWeek": 567,
-    "timeMonth": 583,
-    "timeYear": 630,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 565,
+    "timeWeek": 585,
+    "timeMonth": 587,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Safe Tx Service (Mainnet)",
