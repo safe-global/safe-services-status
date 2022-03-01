@@ -46,36 +46,6 @@
     }
   },
   {
-    "name": "Safe Client Gateway (Rinkeby)",
-    "url": "https://safe-client.rinkeby.gnosis.io/health/",
-    "icon": "https://favicons.githubusercontent.com/safe-client.rinkeby.gnosis.io",
-    "slug": "safe-client-gateway-rinkeby",
-    "status": "down",
-    "uptime": "95.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "65.45%",
-    "uptimeMonth": "67.05%",
-    "uptimeYear": "95.17%",
-    "time": 630,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 598,
-    "timeYear": 630,
-    "dailyMinutesDown": {
-      "2022-02-24": 615,
-      "2022-02-23": 1440,
-      "2022-02-22": 1440,
-      "2022-02-21": 1440,
-      "2022-02-20": 1440,
-      "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440,
-      "2022-02-16": 1440,
-      "2022-02-15": 1440,
-      "2022-02-14": 857
-    }
-  },
-  {
     "name": "Safe Tx Service (Mainnet)",
     "url": "https://safe-transaction.mainnet.gnosis.io/check/",
     "icon": "https://favicons.githubusercontent.com/safe-transaction.mainnet.gnosis.io",
@@ -180,7 +150,7 @@
     "time": 761,
     "timeDay": 495,
     "timeWeek": 558,
-    "timeMonth": 616,
+    "timeMonth": 623,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2022-02-28": 65,
