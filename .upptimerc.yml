@@ -25,7 +25,8 @@ sites:
     url: https://safe-transaction.volta.gnosis.io/check/
   - name: Safe Tx Service (Arbitrum)
     url: https://safe-transaction.arbitrum.gnosis.io/check/
-
+  - name: Safe Tx Service (Avalanche)
+    url: https://safe-transaction.avalanche.gnosis.io/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
