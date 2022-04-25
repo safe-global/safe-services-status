@@ -13,7 +13,7 @@
     "time": 810,
     "timeDay": 1059,
     "timeWeek": 1004,
-    "timeMonth": 960,
+    "timeMonth": 969,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2022-02-11": 31,
@@ -38,7 +38,7 @@
     "time": 757,
     "timeDay": 742,
     "timeWeek": 537,
-    "timeMonth": 595,
+    "timeMonth": 593,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2021-08-25": 5,
@@ -59,7 +59,7 @@
     "time": 769,
     "timeDay": 722,
     "timeWeek": 549,
-    "timeMonth": 595,
+    "timeMonth": 592,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2022-02-25": 19,
@@ -87,7 +87,7 @@
     "time": 616,
     "timeDay": 687,
     "timeWeek": 551,
-    "timeMonth": 595,
+    "timeMonth": 592,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2021-09-27": 7
@@ -107,7 +107,7 @@
     "time": 615,
     "timeDay": 662,
     "timeWeek": 545,
-    "timeMonth": 585,
+    "timeMonth": 582,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2022-01-11": 109,
@@ -130,7 +130,7 @@
     "time": 667,
     "timeDay": 675,
     "timeWeek": 523,
-    "timeMonth": 589,
+    "timeMonth": 586,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2021-09-27": 7
@@ -141,18 +141,19 @@
     "url": "https://safe-transaction.bsc.gnosis.io/check/",
     "icon": "https://favicons.githubusercontent.com/safe-transaction.bsc.gnosis.io",
     "slug": "safe-tx-service-binance-smart-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.65%",
     "time": 760,
-    "timeDay": 698,
-    "timeWeek": 570,
-    "timeMonth": 606,
+    "timeDay": 554,
+    "timeWeek": 554,
+    "timeMonth": 599,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-04-21": 40,
       "2022-03-29": 52,
       "2022-03-07": 297,
@@ -187,7 +188,7 @@
     "time": 782,
     "timeDay": 682,
     "timeWeek": 537,
-    "timeMonth": 597,
+    "timeMonth": 593,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2022-01-11": 110,
@@ -215,7 +216,7 @@
     "time": 612,
     "timeDay": 669,
     "timeWeek": 538,
-    "timeMonth": 582,
+    "timeMonth": 576,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2021-09-27": 7,
@@ -236,7 +237,7 @@
     "time": 607,
     "timeDay": 673,
     "timeWeek": 532,
-    "timeMonth": 572,
+    "timeMonth": 569,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2021-09-27": 7
@@ -256,7 +257,7 @@
     "time": 618,
     "timeDay": 748,
     "timeWeek": 537,
-    "timeMonth": 586,
+    "timeMonth": 580,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2021-11-10": 15,
@@ -277,7 +278,7 @@
     "time": 577,
     "timeDay": 665,
     "timeWeek": 518,
-    "timeMonth": 577,
+    "timeMonth": 571,
     "timeYear": 577,
     "dailyMinutesDown": {}
   }
