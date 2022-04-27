@@ -27,6 +27,8 @@ sites:
     url: https://safe-transaction.arbitrum.gnosis.io/check/
   - name: Safe Tx Service (Avalanche)
     url: https://safe-transaction.avalanche.gnosis.io/check/
+  - name: Safe Tx Service (Optimism)
+    url: https://safe-transaction.optimism.gnosis.io/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -41,9 +43,9 @@ status-website:
     - title: Status
       href: https://gnosis.github.io/safe-services-status
     - title: Safe Transaction Service
-      href: https://github.com/gnosis/safe-transaction-service
+      href: https://github.com/safe-global/safe-transaction-service
     - title: Safe Client Gateway
-      href: https://github.com/gnosis/safe-client-gateway
+      href: https://github.com/safe-global/safe-client-gateway
     - title: Help docs
       href: https://help.gnosis-safe.io/en/
     - title: Dev docs
