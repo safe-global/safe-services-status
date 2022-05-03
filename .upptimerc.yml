@@ -1,5 +1,5 @@
 # Change these first
-owner: gnosis # Your GitHub organization or username, where this repository lives
+owner: safe-global # Your GitHub organization or username, where this repository lives
 repo: safe-services-status # The name of this repository
 skipTopicsUpdate: true
 sites:
@@ -35,13 +35,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /safe-services-status
   logoUrl: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
-  name: Gnosis Safe Services Status
-  introTitle: Status for the **Gnosis Safe** backend
-  introMessage: Gnosis Safe services status
+  name: Safe Ecosystem Foundation Backend Status
+  introTitle: Status for the **Safe Ecosystem Foundation** Backend
+  introMessage: Safe Ecosystem Foundation Backend Status
   favicon: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
   navbar:
     - title: Status
-      href: https://gnosis.github.io/safe-services-status
+      href: https://safe-global.github.io/safe-services-status
     - title: Safe Transaction Service
       href: https://github.com/safe-global/safe-transaction-service
     - title: Safe Client Gateway
@@ -51,4 +51,4 @@ status-website:
     - title: Dev docs
       href: https://docs.gnosis.io/safe/
     - title: Github
-      href: https://github.com/gnosis/safe-services-status
+      href: https://github.com/safe-global/safe-services-status
