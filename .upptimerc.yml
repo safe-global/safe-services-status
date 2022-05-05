@@ -5,8 +5,6 @@ skipTopicsUpdate: true
 sites:
   - name: Safe Client Gateway (Unified)
     url: https://safe-client.gnosis.io/health/
-  - name: Safe Client Gateway (Mainnet)
-    url: https://safe-client.mainnet.gnosis.io/health/
   - name: Safe Tx Service (Mainnet)
     url: https://safe-transaction.mainnet.gnosis.io/check/
   - name: Safe Tx Service (Rinkeby)
