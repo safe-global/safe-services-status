@@ -276,17 +276,19 @@
     "url": "https://safe-transaction.optimism.gnosis.io/check/",
     "icon": "https://favicons.githubusercontent.com/safe-transaction.optimism.gnosis.io",
     "slug": "safe-tx-service-optimism",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 439,
-    "timeWeek": 461,
+    "timeDay": 478,
+    "timeWeek": 468,
     "timeMonth": 507,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-24": 0
+    }
   }
 ]
