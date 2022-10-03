@@ -177,10 +177,10 @@
     "url": "https://safe-transaction.polygon.gnosis.io/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction.polygon.gnosis.io.ico",
     "slug": "safe-tx-service-polygon-matic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 707,
@@ -189,7 +189,7 @@
     "timeMonth": 586,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-10-03": 17,
+      "2022-10-03": 18,
       "2022-01-11": 110
     }
   },
@@ -239,12 +239,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 602,
     "timeDay": 428,
-    "timeWeek": 523,
+    "timeWeek": 511,
     "timeMonth": 560,
     "timeYear": 594,
     "dailyMinutesDown": {
