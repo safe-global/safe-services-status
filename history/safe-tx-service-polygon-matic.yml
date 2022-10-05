@@ -1,7 +1,7 @@
 url: https://safe-transaction.polygon.gnosis.io/check/
-status: down
-code: 503
-responseTime: 574
-lastUpdated: 2022-10-05T10:12:38.689Z
+status: up
+code: 200
+responseTime: 27092
+lastUpdated: 2022-10-05T11:41:04.122Z
 startTime: Thu Aug 05 2021 10:30:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
