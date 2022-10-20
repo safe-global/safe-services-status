@@ -1,7 +1,7 @@
 url: https://safe-transaction.xdai.gnosis.io/check/
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2022-10-19T23:18:22.722Z
+status: down
+code: 404
+responseTime: 654
+lastUpdated: 2022-10-20T07:30:30.217Z
 startTime: Thu Aug 05 2021 10:30:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
