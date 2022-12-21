@@ -4,39 +4,37 @@ repo: safe-services-status # The name of this repository
 skipTopicsUpdate: true
 sites:
   - name: Safe Client Gateway (Unified)
-    url: https://safe-client.gnosis.io/health/
+    url: https://safe-client.safe.global/health/
   - name: Safe Tx Service (Mainnet)
-    url: https://safe-transaction.mainnet.gnosis.io/check/
-  - name: Safe Tx Service (Rinkeby)
-    url: https://safe-transaction.rinkeby.gnosis.io/check/
-  - name: Safe Tx Service (xDai)
-    url: https://safe-transaction.xdai.gnosis.io/check/
+    url: https://safe-transaction-mainnet.safe.global/check/
+  - name: Safe Tx Service (Gnosis Chain)
+    url: https://safe-transaction-gnosis-chain.safe.global/check/
   - name: Safe Tx Service (Goerli)
-    url: https://safe-transaction.goerli.gnosis.io/check/
+    url: https://safe-transaction-goerli.safe.global/check/
   - name: Safe Tx Service (Binance Smart Chain)
-    url: https://safe-transaction.bsc.gnosis.io/check/
+    url: https://safe-transaction-bsc.safe.global/check/
   - name: Safe Tx Service (Polygon - Matic)
-    url: https://safe-transaction.polygon.gnosis.io/check/
+    url: https://safe-transaction-polygon.safe.global/check/
   - name: Safe Tx Service (EWC)
-    url: https://safe-transaction.ewc.gnosis.io/check/
+    url: https://safe-transaction-ewc.safe.global/check/
   - name: Safe Tx Service (Volta)
-    url: https://safe-transaction.volta.gnosis.io/check/
+    url: https://safe-transaction-volta.safe.global/check/
   - name: Safe Tx Service (Arbitrum)
-    url: https://safe-transaction.arbitrum.gnosis.io/check/
+    url: https://safe-transaction-arbitrum.safe.global/check/
   - name: Safe Tx Service (Avalanche)
-    url: https://safe-transaction.avalanche.gnosis.io/check/
+    url: https://safe-transaction-avalanche.safe.global/check/
   - name: Safe Tx Service (Optimism)
-    url: https://safe-transaction.optimism.gnosis.io/check/
+    url: https://safe-transaction-optimism.safe.global/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.safe.global
   # baseUrl: /safe-services-status
-  logoUrl: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
+  logoUrl: https://docs.safe.global/safe/img/gnosis_safe_logo_green.png
   name: Safe Ecosystem Foundation Backend Status
   introTitle: Status for the **Safe Ecosystem Foundation** Backend
   introMessage: Safe Ecosystem Foundation Backend Status
-  favicon: https://docs.gnosis.io/safe/img/gnosis_safe_logo_green.png
+  favicon: https://docs.safe.global/safe/img/gnosis_safe_logo_green.png
   navbar:
     - title: Status
       href: https://safe-global.github.io/safe-services-status
@@ -47,6 +45,6 @@ status-website:
     - title: Help docs
       href: https://help.gnosis-safe.io/en/
     - title: Dev docs
-      href: https://docs.gnosis.io/safe/
+      href: https://docs.safe.global/safe/
     - title: Github
       href: https://github.com/safe-global/safe-services-status
