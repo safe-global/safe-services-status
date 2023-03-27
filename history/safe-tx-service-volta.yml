@@ -1,7 +1,7 @@
 url: https://safe-transaction-volta.safe.global/check/
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2023-03-26T23:10:04.647Z
+status: down
+code: 404
+responseTime: 520
+lastUpdated: 2023-03-27T08:54:28.922Z
 startTime: Thu Aug 05 2021 10:30:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
