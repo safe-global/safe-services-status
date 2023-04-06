@@ -1,7 +1,7 @@
 url: https://safe-transaction-goerli.safe.global/check/
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2023-04-05T23:08:13.677Z
+status: down
+code: 503
+responseTime: 209
+lastUpdated: 2023-04-06T13:29:12.485Z
 startTime: Thu Aug 05 2021 10:30:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
