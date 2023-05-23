@@ -15,10 +15,10 @@ sites:
     url: https://safe-transaction-bsc.safe.global/check/
   - name: Safe Tx Service (Polygon - Matic)
     url: https://safe-transaction-polygon.safe.global/check/
-  - name: Safe Tx Service (EWC)
-    url: https://safe-transaction-ewc.safe.global/check/
-  - name: Safe Tx Service (Volta)
-    url: https://safe-transaction-volta.safe.global/check/
+  - name: Safe Tx Service (Base Testnet)
+    url: https://safe-transaction-base-testnet.safe.global/check/
+  - name: Safe Tx Service (Celo)
+    url: https://safe-transaction-celo.safe.global/check/
   - name: Safe Tx Service (Arbitrum)
     url: https://safe-transaction-arbitrum.safe.global/check/
   - name: Safe Tx Service (Avalanche)
