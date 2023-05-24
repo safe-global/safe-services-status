@@ -30,21 +30,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.safe.global
   # baseUrl: /safe-services-status
-  logoUrl: https://docs.safe.global/safe/img/gnosis_safe_logo_green.png
+  logoUrl: https://pbs.twimg.com/profile_images/1643941027898613760/gyhYEOCE_400x400.jpg
   name: Safe Ecosystem Foundation Backend Status
   introTitle: Status for the **Safe Ecosystem Foundation** Backend
   introMessage: Safe Ecosystem Foundation Backend Status
-  favicon: https://docs.safe.global/safe/img/gnosis_safe_logo_green.png
+  favicon: https://pbs.twimg.com/profile_images/1643941027898613760/gyhYEOCE_400x400.jpg
   navbar:
-    - title: Status
-      href: https://safe-global.github.io/safe-services-status
-    - title: Safe Transaction Service
-      href: https://github.com/safe-global/safe-transaction-service
-    - title: Safe Client Gateway
-      href: https://github.com/safe-global/safe-client-gateway
+    - title: Indexing Status
+      href: https://safe-react-status.netlify.app/
+    - title: Safe Infrastructure
+      href: https://github.com/safe-global/safe-infrastructure
     - title: Help docs
-      href: https://help.gnosis-safe.io/en/
+      href: https://help.safe.global/en/
     - title: Dev docs
-      href: https://docs.safe.global/safe/
-    - title: Github
-      href: https://github.com/safe-global/safe-services-status
+      href: https://docs.safe.global/
