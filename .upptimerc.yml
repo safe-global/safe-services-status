@@ -4,7 +4,7 @@ repo: safe-services-status # The name of this repository
 skipTopicsUpdate: true
 sites:
   - name: Safe Client Gateway (Unified)
-    url: https://safe-client.safe.global/health/
+    url: https://safe-client.safe.global/health/ready/
   - name: Safe Tx Service (Mainnet)
     url: https://safe-transaction-mainnet.safe.global/check/
   - name: Safe Tx Service (Gnosis Chain)
