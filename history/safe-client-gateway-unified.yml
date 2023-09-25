@@ -1,7 +1,7 @@
 url: https://safe-client.safe.global/health/ready/
-status: down
-code: 502
-responseTime: 17123
-lastUpdated: 2023-09-25T07:47:09.347Z
+status: up
+code: 200
+responseTime: 637
+lastUpdated: 2023-09-25T07:55:24.913Z
 startTime: 2021-08-05T13:18:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
