@@ -9,14 +9,16 @@ sites:
     url: https://safe-transaction-mainnet.safe.global/check/
   - name: Safe Tx Service (Gnosis Chain)
     url: https://safe-transaction-gnosis-chain.safe.global/check/
-  - name: Safe Tx Service (Goerli)
-    url: https://safe-transaction-goerli.safe.global/check/
+  - name: Safe Tx Service (Sepolia)
+    url: https://safe-transaction-sepolia.safe.global/check/
   - name: Safe Tx Service (Binance Smart Chain)
     url: https://safe-transaction-bsc.safe.global/check/
   - name: Safe Tx Service (Polygon - Matic)
     url: https://safe-transaction-polygon.safe.global/check/
-  - name: Safe Tx Service (Base Testnet)
-    url: https://safe-transaction-base-testnet.safe.global/check/
+  - name: Safe Tx Service (Polygon - zkEVM)
+    url: https://safe-transaction-zkevm.safe.global/check/
+  - name: Safe Tx Service (Base Sepolia)
+    url: https://safe-transaction-base-sepolia.safe.global/check/
   - name: Safe Tx Service (Celo)
     url: https://safe-transaction-celo.safe.global/check/
   - name: Safe Tx Service (Arbitrum)
@@ -25,6 +27,10 @@ sites:
     url: https://safe-transaction-avalanche.safe.global/check/
   - name: Safe Tx Service (Optimism)
     url: https://safe-transaction-optimism.safe.global/check/
+  - name: Safe Tx Service (Aurora)
+    url: https://safe-transaction-aurora.safe.global/check/
+  - name: Safe Tx Service (zkSync Era Mainnet)
+    url: https://safe-transaction-zksync.safe.global/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
