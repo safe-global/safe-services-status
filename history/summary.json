@@ -213,18 +213,20 @@
     "url": "https://safe-transaction-base-sepolia.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-base-sepolia.safe.global.ico",
     "slug": "safe-tx-service-base-sepolia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 503,
-    "timeWeek": 420,
-    "timeMonth": 409,
-    "timeYear": 370,
-    "dailyMinutesDown": {}
+    "time": 369,
+    "timeDay": 414,
+    "timeWeek": 408,
+    "timeMonth": 407,
+    "timeYear": 369,
+    "dailyMinutesDown": {
+      "2024-06-10": 0
+    }
   },
   {
     "name": "Safe Tx Service (Celo)",
