@@ -43,7 +43,7 @@ status-website:
   favicon: https://app.safe.global/favicon.ico
   navbar:
     - title: Indexing Status
-      href: https://safe-transaction-service-status.safe.global
+      href: https://status.safe.global
     - title: Safe Infrastructure
       href: https://github.com/safe-global/safe-infrastructure
     - title: Help docs
