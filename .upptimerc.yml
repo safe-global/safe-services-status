@@ -3,7 +3,7 @@ owner: safe-global # Your GitHub organization or username, where this repository
 repo: safe-services-status # The name of this repository
 skipTopicsUpdate: true
 sites:
-  - name: Safe Client Gateway (Unified)
+  - name: Safe Client Gateway
     url: https://safe-client.safe.global/health/ready/
   - name: Safe Tx Service (Mainnet)
     url: https://safe-transaction-mainnet.safe.global/check/
@@ -17,6 +17,8 @@ sites:
     url: https://safe-transaction-polygon.safe.global/check/
   - name: Safe Tx Service (Polygon - zkEVM)
     url: https://safe-transaction-zkevm.safe.global/check/
+  - name: Safe Tx Service (Base Mainnet)
+    url: https://safe-transaction-base.safe.global/check/
   - name: Safe Tx Service (Base Sepolia)
     url: https://safe-transaction-base-sepolia.safe.global/check/
   - name: Safe Tx Service (Celo)
@@ -31,6 +33,10 @@ sites:
     url: https://safe-transaction-aurora.safe.global/check/
   - name: Safe Tx Service (zkSync Era Mainnet)
     url: https://safe-transaction-zksync.safe.global/check/
+  - name: Safe Tx Service (xLayer)
+    url: https://safe-transaction-xlayer.safe.global/check/
+  - name: Safe Tx Service (Scroll)
+    url: https://safe-transaction-scroll.safe.global/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
