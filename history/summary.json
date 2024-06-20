@@ -150,19 +150,19 @@
     "url": "https://safe-transaction-base.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-base.safe.global.ico",
     "slug": "safe-tx-service-base-mainnet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 221,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 301,
+    "timeDay": 251,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 7
     }
   },
   {
