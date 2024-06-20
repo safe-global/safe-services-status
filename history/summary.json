@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 440,
     "timeDay": 492,
-    "timeWeek": 435,
+    "timeWeek": 412,
     "timeMonth": 603,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "99.99%",
     "time": 447,
     "timeDay": 638,
-    "timeWeek": 393,
+    "timeWeek": 386,
     "timeMonth": 446,
     "timeYear": 419,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
     "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 492,
-    "timeWeek": 417,
+    "timeWeek": 433,
     "timeMonth": 417,
     "timeYear": 406,
     "dailyMinutesDown": {}
@@ -97,7 +97,7 @@
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 652,
-    "timeWeek": 410,
+    "timeWeek": 436,
     "timeMonth": 407,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -118,7 +118,7 @@
     "uptimeYear": "99.99%",
     "time": 413,
     "timeDay": 639,
-    "timeWeek": 388,
+    "timeWeek": 446,
     "timeMonth": 443,
     "timeYear": 413,
     "dailyMinutesDown": {
@@ -150,18 +150,20 @@
     "url": "https://safe-transaction-base.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-base.safe.global.ico",
     "slug": "safe-tx-service-base-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 211,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 221,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Safe Tx Service (Base Sepolia)",
@@ -176,7 +178,7 @@
     "uptimeYear": "99.99%",
     "time": 374,
     "timeDay": 515,
-    "timeWeek": 393,
+    "timeWeek": 407,
     "timeMonth": 406,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -196,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 503,
-    "timeWeek": 377,
+    "timeWeek": 407,
     "timeMonth": 382,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -216,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 496,
-    "timeWeek": 373,
+    "timeWeek": 376,
     "timeMonth": 374,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -268,7 +270,7 @@
     "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 512,
-    "timeWeek": 402,
+    "timeWeek": 403,
     "timeMonth": 406,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -289,7 +291,7 @@
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 196,
-    "timeWeek": 353,
+    "timeWeek": 380,
     "timeMonth": 326,
     "timeYear": 330,
     "dailyMinutesDown": {}
@@ -307,7 +309,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 536,
-    "timeWeek": 396,
+    "timeWeek": 388,
     "timeMonth": 371,
     "timeYear": 367,
     "dailyMinutesDown": {}
