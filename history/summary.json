@@ -357,18 +357,19 @@
     "url": "https://safe-transaction-scroll.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-scroll.safe.global.ico",
     "slug": "safe-tx-service-scroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 378,
-    "timeDay": 395,
-    "timeWeek": 448,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "time": 371,
+    "timeDay": 287,
+    "timeWeek": 414,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
+      "2024-07-08": 0,
       "2024-06-25": 9
     }
   }
