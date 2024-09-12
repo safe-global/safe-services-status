@@ -47,18 +47,19 @@
     "url": "https://safe-transaction-gnosis-chain.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-gnosis-chain.safe.global.ico",
     "slug": "safe-tx-service-gnosis-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 422,
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 421,
     "timeDay": 543,
     "timeWeek": 501,
     "timeMonth": 423,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2024-09-12": 4,
       "2024-06-25": 9,
       "2023-10-09": 14
     }
@@ -149,11 +150,11 @@
     "url": "https://safe-transaction-base.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-base.safe.global.ico",
     "slug": "safe-tx-service-base-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 398,
     "timeDay": 620,
@@ -161,6 +162,7 @@
     "timeMonth": 409,
     "timeYear": 398,
     "dailyMinutesDown": {
+      "2024-09-12": 3,
       "2024-06-25": 9,
       "2024-06-20": 7
     }
@@ -170,11 +172,11 @@
     "url": "https://safe-transaction-base-sepolia.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-base-sepolia.safe.global.ico",
     "slug": "safe-tx-service-base-sepolia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 356,
     "timeDay": 523,
@@ -182,6 +184,7 @@
     "timeMonth": 333,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2024-09-12": 3,
       "2024-06-25": 9,
       "2024-06-10": 14
     }
@@ -231,11 +234,11 @@
     "url": "https://safe-transaction-avalanche.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-avalanche.safe.global.ico",
     "slug": "safe-tx-service-avalanche",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 496,
     "timeDay": 509,
@@ -243,6 +246,7 @@
     "timeMonth": 382,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2024-09-12": 2,
       "2024-06-25": 9,
       "2023-12-19": 12,
       "2023-11-27": 13,
@@ -276,10 +280,10 @@
     "url": "https://safe-transaction-aurora.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-aurora.safe.global.ico",
     "slug": "safe-tx-service-aurora",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -288,6 +292,7 @@
     "timeMonth": 335,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2024-09-12": 2,
       "2024-06-25": 9
     }
   },
@@ -317,10 +322,10 @@
     "url": "https://safe-transaction-xlayer.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-xlayer.safe.global.ico",
     "slug": "safe-tx-service-x-layer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 379,
@@ -329,6 +334,7 @@
     "timeMonth": 380,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2024-09-12": 1,
       "2024-06-25": 9
     }
   },
@@ -358,10 +364,10 @@
     "url": "https://safe-transaction-linea.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-linea.safe.global.ico",
     "slug": "safe-tx-service-linea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
@@ -369,16 +375,18 @@
     "timeWeek": 369,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 1
+    }
   },
   {
     "name": "Safe Tx Service (Chiado)",
     "url": "https://safe-transaction-chiado.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-chiado.safe.global.ico",
     "slug": "safe-tx-service-chiado",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -387,6 +395,8 @@
     "timeWeek": 436,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
