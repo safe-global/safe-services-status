@@ -1,7 +1,7 @@
 url: https://safe-transaction-arbitrum.safe.global/check/
-status: up
-code: 200
-responseTime: 491
-lastUpdated: 2025-01-19T23:02:57.904Z
+status: down
+code: 403
+responseTime: 78
+lastUpdated: 2025-01-19T23:52:39.935Z
 startTime: 2021-08-05T10:30:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
