@@ -1,7 +1,7 @@
 url: https://safe-transaction-xlayer.safe.global/check/
-status: up
-code: 200
-responseTime: 344
-lastUpdated: 2025-02-02T23:02:46.616Z
+status: down
+code: 403
+responseTime: 69
+lastUpdated: 2025-02-02T23:40:51.940Z
 startTime: 2024-06-14T14:47:02.024Z
 generator: Upptime <https://github.com/upptime/upptime>
