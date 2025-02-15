@@ -1,7 +1,7 @@
 url: https://safe-transaction-bsc.safe.global/check/
-status: down
-code: 403
-responseTime: 54
-lastUpdated: 2025-02-15T09:55:01.974Z
+status: up
+code: 200
+responseTime: 508
+lastUpdated: 2025-02-15T10:02:41.975Z
 startTime: 2021-08-05T10:30:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
