@@ -49,6 +49,8 @@ sites:
     url: https://safe-transaction-ink.safe.global/check/
   - name: Safe Tx Service (Unichain)
     url: https://safe-transaction-unichain.safe.global/check/
+  - name: Safe Tx Service (Berachain)
+    url: https://safe-transaction-berachain.safe.global/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
