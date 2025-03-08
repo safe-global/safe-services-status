@@ -1,7 +1,7 @@
 url: https://safe-transaction-sepolia.safe.global/check/
-status: down
-code: 403
-responseTime: 151
-lastUpdated: 2025-03-08T17:37:31.087Z
+status: up
+code: 200
+responseTime: 213
+lastUpdated: 2025-03-08T17:44:18.886Z
 startTime: 2024-03-19T10:34:24.824Z
 generator: Upptime <https://github.com/upptime/upptime>
