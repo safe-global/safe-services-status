@@ -1,7 +1,7 @@
 url: https://safe-transaction-chiado.safe.global/check/
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2025-03-14T13:42:46.255Z
+status: down
+code: 403
+responseTime: 58
+lastUpdated: 2025-03-14T20:10:29.257Z
 startTime: 2024-08-16T10:52:40.346Z
 generator: Upptime <https://github.com/upptime/upptime>
