@@ -1,7 +1,7 @@
 url: https://safe-transaction-sonic.safe.global/check/
-status: down
-code: 403
-responseTime: 55
-lastUpdated: 2025-03-16T13:14:46.018Z
+status: up
+code: 200
+responseTime: 194
+lastUpdated: 2025-03-16T13:27:15.706Z
 startTime: 2024-12-11T12:21:10.129Z
 generator: Upptime <https://github.com/upptime/upptime>
