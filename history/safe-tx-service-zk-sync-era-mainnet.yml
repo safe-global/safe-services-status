@@ -1,7 +1,7 @@
 url: https://safe-transaction-zksync.safe.global/check/
-status: down
-code: 403
-responseTime: 113
-lastUpdated: 2025-03-23T17:14:27.185Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2025-03-23T17:24:33.619Z
 startTime: 2024-03-19T10:34:31.311Z
 generator: Upptime <https://github.com/upptime/upptime>
