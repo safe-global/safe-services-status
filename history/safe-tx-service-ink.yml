@@ -1,7 +1,7 @@
 url: https://safe-transaction-ink.safe.global/check/
-status: down
-code: 403
-responseTime: 112
-lastUpdated: 2025-03-30T15:29:27.864Z
+status: up
+code: 200
+responseTime: 220
+lastUpdated: 2025-03-30T15:37:13.269Z
 startTime: 2024-12-12T17:15:05.125Z
 generator: Upptime <https://github.com/upptime/upptime>
