@@ -1,7 +1,7 @@
 url: https://safe-transaction-base.safe.global/check/
-status: down
-code: 403
-responseTime: 59
-lastUpdated: 2025-04-04T10:41:37.985Z
+status: up
+code: 200
+responseTime: 498
+lastUpdated: 2025-04-04T10:49:05.840Z
 startTime: 2024-06-14T14:46:55.924Z
 generator: Upptime <https://github.com/upptime/upptime>
