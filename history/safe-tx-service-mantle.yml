@@ -1,7 +1,7 @@
 url: https://safe-transaction-mantle.safe.global/check/
-status: down
-code: 403
-responseTime: 121
-lastUpdated: 2025-04-14T00:38:34.191Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2025-04-14T01:06:19.733Z
 startTime: 2024-09-23T12:22:22.690Z
 generator: Upptime <https://github.com/upptime/upptime>
