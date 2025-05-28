@@ -480,12 +480,12 @@
     "slug": "safe-tx-service-base-mainnet",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.77%",
     "time": 322,
-    "timeDay": 429,
+    "timeDay": 517,
     "timeWeek": 340,
     "timeMonth": 312,
     "timeYear": 322,
@@ -614,11 +614,11 @@
     "url": "https://safe-transaction-celo.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-celo.safe.global.ico",
     "slug": "safe-tx-service-celo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.78%",
     "time": 351,
     "timeDay": 262,
@@ -626,7 +626,7 @@
     "timeMonth": 287,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-05-28": 7,
+      "2025-05-28": 8,
       "2025-05-27": 6,
       "2025-05-16": 14,
       "2025-05-14": 8,
@@ -675,7 +675,7 @@
       "2025-03-15": 20,
       "2025-03-14": 19,
       "2025-03-11": 68,
-      "2025-03-10": 16
+      "2025-03-10": 8
     }
   },
   {
