@@ -135,17 +135,17 @@
     "url": "https://safe-transaction-gnosis-chain.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-gnosis-chain.safe.global.ico",
     "slug": "safe-tx-service-gnosis-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 384,
-    "timeDay": 237,
-    "timeWeek": 350,
-    "timeMonth": 341,
-    "timeYear": 376,
+    "timeDay": 309,
+    "timeWeek": 366,
+    "timeMonth": 344,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-05-29": 18,
       "2025-05-26": 9,
@@ -198,7 +198,7 @@
       "2025-03-19": 7,
       "2025-03-18": 18,
       "2025-03-17": 23,
-      "2025-03-16": 60
+      "2025-03-16": 30
     }
   },
   {
