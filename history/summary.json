@@ -616,19 +616,19 @@
     "url": "https://safe-transaction-celo.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-celo.safe.global.ico",
     "slug": "safe-tx-service-celo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.79%",
     "time": 351,
-    "timeDay": 256,
-    "timeWeek": 331,
-    "timeMonth": 282,
-    "timeYear": 344,
+    "timeDay": 297,
+    "timeWeek": 340,
+    "timeMonth": 284,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-06-02": 14,
+      "2025-06-02": 15,
       "2025-05-28": 15,
       "2025-05-27": 6,
       "2025-05-16": 14,
@@ -677,7 +677,7 @@
       "2025-03-16": 62,
       "2025-03-15": 20,
       "2025-03-14": 19,
-      "2025-03-11": 17
+      "2025-03-11": 7
     }
   },
   {
