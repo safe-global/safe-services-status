@@ -1299,19 +1299,19 @@
     "url": "https://safe-transaction-mantle.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-mantle.safe.global.ico",
     "slug": "safe-tx-service-mantle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.69%",
     "time": 406,
-    "timeDay": 2030,
-    "timeWeek": 1643,
-    "timeMonth": 1106,
+    "timeDay": 1981,
+    "timeWeek": 1589,
+    "timeMonth": 1092,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-06-18": 60,
+      "2025-06-18": 61,
       "2025-06-17": 41,
       "2025-06-02": 15,
       "2025-06-01": 22,
@@ -1358,8 +1358,7 @@
       "2025-03-20": 36,
       "2025-03-19": 7,
       "2025-03-18": 18,
-      "2025-03-17": 23,
-      "2025-03-16": 11
+      "2025-03-17": 23
     }
   },
   {
