@@ -57,6 +57,8 @@ sites:
     url: https://safe-transaction-hemi.safe.global/check/
   - name: Safe Tx Service (Katana)
     url: https://safe-transaction-katana.safe.global/check/
+  - name: Safe Tx Service (Peaq)
+    url: https://safe-transaction-peaq.safe.global/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
