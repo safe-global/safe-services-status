@@ -1,7 +1,7 @@
 url: https://safe-transaction-linea.safe.global/check/
-status: down
-code: 503
-responseTime: 222
-lastUpdated: 2025-07-11T04:56:08.791Z
+status: up
+code: 200
+responseTime: 8693
+lastUpdated: 2025-07-11T05:06:28.203Z
 startTime: 2024-08-13T14:27:58.910Z
 generator: Upptime <https://github.com/upptime/upptime>
