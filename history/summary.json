@@ -895,19 +895,19 @@
     "url": "https://safe-transaction-aurora.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-aurora.safe.global.ico",
     "slug": "safe-tx-service-aurora",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "75.88%",
-    "uptimeWeek": "96.55%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "75.81%",
+    "uptimeWeek": "96.54%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.72%",
-    "time": 354,
-    "timeDay": 359,
-    "timeWeek": 277,
+    "time": 355,
+    "timeDay": 391,
+    "timeWeek": 300,
     "timeMonth": 547,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-07-11": 319,
+      "2025-07-11": 320,
       "2025-07-10": 29,
       "2025-06-29": 19,
       "2025-06-18": 32,
@@ -956,8 +956,7 @@
       "2025-03-18": 18,
       "2025-03-17": 23,
       "2025-03-16": 61,
-      "2025-03-15": 20,
-      "2025-03-14": 12
+      "2025-03-15": 20
     }
   },
   {
