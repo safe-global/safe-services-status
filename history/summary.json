@@ -759,19 +759,19 @@
     "url": "https://safe-transaction-avalanche.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-avalanche.safe.global.ico",
     "slug": "safe-tx-service-avalanche",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "97.37%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.36%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.75%",
     "time": 414,
-    "timeDay": 2509,
-    "timeWeek": 2749,
-    "timeMonth": 1424,
+    "timeDay": 2124,
+    "timeWeek": 2621,
+    "timeMonth": 1397,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-07-14": 37,
+      "2025-07-14": 38,
       "2025-07-11": 199,
       "2025-07-10": 29,
       "2025-06-03": 10,
@@ -820,7 +820,7 @@
       "2025-03-17": 23,
       "2025-03-16": 61,
       "2025-03-15": 20,
-      "2025-03-14": 26
+      "2025-03-14": 19
     }
   },
   {
