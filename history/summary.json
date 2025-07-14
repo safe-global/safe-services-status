@@ -1241,19 +1241,19 @@
     "url": "https://safe-transaction-chiado.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-chiado.safe.global.ico",
     "slug": "safe-tx-service-chiado",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "95.50%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "95.49%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.68%",
     "time": 440,
-    "timeDay": 4662,
-    "timeWeek": 3330,
-    "timeMonth": 1563,
+    "timeDay": 4235,
+    "timeWeek": 3197,
+    "timeMonth": 1540,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-07-14": 106,
+      "2025-07-14": 107,
       "2025-07-11": 329,
       "2025-07-10": 19,
       "2025-07-02": 11,
@@ -1303,7 +1303,7 @@
       "2025-03-19": 7,
       "2025-03-18": 18,
       "2025-03-17": 23,
-      "2025-03-16": 30
+      "2025-03-16": 23
     }
   },
   {
