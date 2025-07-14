@@ -1,7 +1,7 @@
 url: https://safe-transaction-aurora.safe.global/check/
-status: down
-code: 503
-responseTime: 247
-lastUpdated: 2025-07-14T07:35:29.763Z
+status: up
+code: 200
+responseTime: 11295
+lastUpdated: 2025-07-14T07:45:05.268Z
 startTime: 2024-03-19T10:34:30.573Z
 generator: Upptime <https://github.com/upptime/upptime>
