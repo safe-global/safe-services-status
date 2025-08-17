@@ -4,17 +4,17 @@
     "url": "https://safe-client.safe.global/health/ready/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-client.safe.global.ico",
     "slug": "safe-client-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.07%",
+    "uptimeDay": "97.06%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.77%",
-    "time": 785,
-    "timeDay": 882,
-    "timeWeek": 590,
-    "timeMonth": 430,
-    "timeYear": 819,
+    "time": 784,
+    "timeDay": 800,
+    "timeWeek": 567,
+    "timeMonth": 425,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-08-17": 43,
       "2025-08-15": 10,
@@ -61,8 +61,7 @@
       "2025-03-30": 30,
       "2025-03-29": 39,
       "2025-03-28": 23,
-      "2025-03-25": 23,
-      "2025-03-24": 7
+      "2025-03-25": 23
     }
   },
   {
