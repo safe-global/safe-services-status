@@ -1,7 +1,7 @@
 url: https://safe-transaction-zkevm.safe.global/check/
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2025-08-24T23:03:16.584Z
+status: down
+code: 403
+responseTime: 62
+lastUpdated: 2025-08-25T12:08:48.480Z
 startTime: 2024-03-19T10:34:26.788Z
 generator: Upptime <https://github.com/upptime/upptime>
