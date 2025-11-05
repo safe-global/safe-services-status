@@ -210,18 +210,19 @@
     "url": "https://safe-transaction-sepolia.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-sepolia.safe.global.ico",
     "slug": "safe-tx-service-sepolia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 359,
+    "time": 358,
     "timeDay": 297,
     "timeWeek": 336,
     "timeMonth": 393,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-09-05": 25,
       "2025-09-04": 23,
       "2025-09-02": 14,
@@ -269,8 +270,7 @@
       "2025-03-28": 23,
       "2025-03-25": 23,
       "2025-03-24": 7,
-      "2025-03-23": 21,
-      "2025-03-22": 10
+      "2025-03-23": 21
     }
   },
   {
@@ -278,10 +278,10 @@
     "url": "https://safe-transaction-bsc.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-bsc.safe.global.ico",
     "slug": "safe-tx-service-binance-smart-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 367,
@@ -290,6 +290,7 @@
     "timeMonth": 261,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-09-05": 25,
       "2025-09-04": 23,
       "2025-09-02": 14,
@@ -339,7 +340,7 @@
       "2025-03-28": 24,
       "2025-03-25": 23,
       "2025-03-24": 7,
-      "2025-03-23": 11
+      "2025-03-23": 4
     }
   },
   {
@@ -1856,12 +1857,12 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.76%",
     "time": 216,
     "timeDay": 296,
-    "timeWeek": 364,
+    "timeWeek": 373,
     "timeMonth": 263,
     "timeYear": 216,
     "dailyMinutesDown": {
