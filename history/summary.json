@@ -1368,19 +1368,19 @@
     "url": "https://safe-transaction-sonic.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-sonic.safe.global.ico",
     "slug": "safe-tx-service-sonic",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 522,
-    "timeDay": 373,
+    "timeDay": 363,
     "timeWeek": 304,
-    "timeMonth": 288,
+    "timeMonth": 289,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-11-11": 11,
+      "2025-11-11": 13,
       "2025-11-10": 13,
       "2025-10-25": 15,
       "2025-09-20": 7,
@@ -1430,7 +1430,7 @@
       "2025-04-10": 27,
       "2025-04-09": 10,
       "2025-04-08": 7,
-      "2025-04-07": 44
+      "2025-04-07": 18
     }
   },
   {
