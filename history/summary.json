@@ -1511,18 +1511,19 @@
     "url": "https://safe-transaction-unichain.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-unichain.safe.global.ico",
     "slug": "safe-tx-service-unichain",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.66%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 304,
-    "timeDay": 422,
-    "timeWeek": 348,
-    "timeMonth": 283,
+    "timeDay": 320,
+    "timeWeek": 342,
+    "timeMonth": 282,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2025-11-13": 2,
       "2025-11-12": 20,
       "2025-11-11": 7,
       "2025-11-10": 7,
@@ -1571,7 +1572,7 @@
       "2025-04-03": 16,
       "2025-04-01": 31,
       "2025-03-31": 44,
-      "2025-03-30": 32
+      "2025-03-30": 22
     }
   },
   {
