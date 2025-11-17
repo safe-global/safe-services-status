@@ -967,19 +967,19 @@
     "url": "https://safe-transaction-zksync.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-zksync.safe.global.ico",
     "slug": "safe-tx-service-zk-sync-era-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.75%",
     "time": 406,
-    "timeDay": 385,
-    "timeWeek": 363,
+    "timeDay": 367,
+    "timeWeek": 359,
     "timeMonth": 309,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-11-17": 16,
+      "2025-11-17": 17,
       "2025-11-16": 15,
       "2025-11-15": 17,
       "2025-11-14": 22,
@@ -1030,8 +1030,7 @@
       "2025-04-07": 18,
       "2025-04-06": 17,
       "2025-04-05": 22,
-      "2025-04-04": 19,
-      "2025-04-03": 8
+      "2025-04-04": 19
     }
   },
   {
