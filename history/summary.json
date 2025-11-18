@@ -1041,18 +1041,19 @@
     "url": "https://safe-transaction-xlayer.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-xlayer.safe.global.ico",
     "slug": "safe-tx-service-x-layer",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.72%",
     "time": 326,
-    "timeDay": 434,
-    "timeWeek": 385,
-    "timeMonth": 356,
+    "timeDay": 342,
+    "timeWeek": 372,
+    "timeMonth": 353,
     "timeYear": 312,
     "dailyMinutesDown": {
+      "2025-11-18": 1,
       "2025-11-12": 9,
       "2025-09-05": 25,
       "2025-09-04": 23,
@@ -1101,7 +1102,7 @@
       "2025-04-01": 30,
       "2025-03-31": 44,
       "2025-03-30": 32,
-      "2025-03-29": 40
+      "2025-03-29": 33
     }
   },
   {
