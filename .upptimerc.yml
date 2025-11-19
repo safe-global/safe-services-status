@@ -69,6 +69,18 @@ sites:
     url: https://safe-transaction-botanix.safe.global/check/
   - name: Safe Tx Service (XDC)
     url: https://safe-transaction-xdc.safe.global/check/
+  - name: Safe Tx Service (Plasma)
+    url: https://api.safe.global/tx-service/plasma/check/
+  - name: Safe Tx Service (0g)
+    url: https://api.safe.global/tx-service/0g/check/
+  - name: Safe Tx Service (Stable)
+    url: https://api.safe.global/tx-service/stable/check/
+  - name: Safe Tx Service (Monad Testnet)
+    url: https://api.safe.global/tx-service/monad-testnet/check/
+  - name: Safe Tx Service (HyperEvm)
+    url: https://api.safe.global/tx-service/hyper/check/
+  - name: Safe Tx Service (MegaEth)
+    url: https://api.safe.global/tx-service/mega/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
