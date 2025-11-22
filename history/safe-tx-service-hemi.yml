@@ -1,7 +1,7 @@
 url: https://safe-transaction-hemi.safe.global/check/
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2025-11-22T12:12:23.246Z
+status: down
+code: 429
+responseTime: 269
+lastUpdated: 2025-11-22T14:14:05.919Z
 startTime: 2025-04-29T10:31:54.263Z
 generator: Upptime <https://github.com/upptime/upptime>
