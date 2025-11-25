@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/0g/check/
-status: up
-code: 200
-responseTime: 118
-lastUpdated: 2025-11-25T23:03:37.824Z
+status: down
+code: 429
+responseTime: 102
+lastUpdated: 2025-11-25T23:37:09.020Z
 startTime: 2025-11-19T09:51:42.016Z
 generator: Upptime <https://github.com/upptime/upptime>
