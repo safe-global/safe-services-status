@@ -1,7 +1,7 @@
 url: https://safe-transaction-opbnb.safe.global/check/
-status: down
-code: 429
-responseTime: 308
-lastUpdated: 2025-11-25T08:26:16.339Z
+status: up
+code: 200
+responseTime: 516
+lastUpdated: 2025-11-25T08:41:04.181Z
 startTime: 2025-08-27T12:42:16.466Z
 generator: Upptime <https://github.com/upptime/upptime>
