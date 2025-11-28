@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/stable/check/
-status: down
-code: 429
-responseTime: 137
-lastUpdated: 2025-11-28T21:39:40.118Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2025-11-28T21:46:30.234Z
 startTime: 2025-11-19T09:51:42.637Z
 generator: Upptime <https://github.com/upptime/upptime>
