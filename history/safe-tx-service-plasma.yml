@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/plasma/check/
-status: up
-code: 200
-responseTime: 396
-lastUpdated: 2025-11-29T20:39:29.070Z
+status: down
+code: 429
+responseTime: 288
+lastUpdated: 2025-11-29T20:46:32.977Z
 startTime: 2025-11-19T09:51:41.442Z
 generator: Upptime <https://github.com/upptime/upptime>
