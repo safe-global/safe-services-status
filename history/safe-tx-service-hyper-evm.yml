@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/hyper/check/
-status: up
-code: 200
-responseTime: 318
-lastUpdated: 2025-12-06T22:27:15.535Z
+status: down
+code: 429
+responseTime: 151
+lastUpdated: 2025-12-06T22:57:59.601Z
 startTime: 2025-11-19T09:51:43.815Z
 generator: Upptime <https://github.com/upptime/upptime>
