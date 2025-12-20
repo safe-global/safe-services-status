@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/mega/check/
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2025-12-20T17:37:44.357Z
+status: down
+code: 429
+responseTime: 129
+lastUpdated: 2025-12-20T18:48:08.201Z
 startTime: 2025-11-19T09:51:44.285Z
 generator: Upptime <https://github.com/upptime/upptime>
