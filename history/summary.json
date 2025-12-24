@@ -2297,18 +2297,19 @@
     "url": "https://api.safe.global/tx-service/stable/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-stable",
-    "status": "up",
-    "uptime": "96.40%",
-    "uptimeDay": "84.98%",
-    "uptimeWeek": "84.10%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "96.40%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "84.07%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.48%",
     "time": 189,
-    "timeDay": 156,
+    "timeDay": 140,
     "timeWeek": 169,
     "timeMonth": 186,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2025-12-24": 3,
       "2025-12-23": 217,
       "2025-12-22": 167,
       "2025-12-21": 250,
@@ -2316,8 +2317,7 @@
       "2025-12-19": 189,
       "2025-12-18": 284,
       "2025-12-17": 265,
-      "2025-12-16": 185,
-      "2025-12-15": 6
+      "2025-12-16": 146
     }
   },
   {
@@ -2327,7 +2327,7 @@
     "slug": "safe-tx-service-monad-testnet",
     "status": "up",
     "uptime": "94.61%",
-    "uptimeDay": "57.72%",
+    "uptimeDay": "57.90%",
     "uptimeWeek": "73.35%",
     "uptimeMonth": "93.87%",
     "uptimeYear": "94.61%",
@@ -2373,18 +2373,19 @@
     "url": "https://api.safe.global/tx-service/mega/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-mega-eth",
-    "status": "up",
-    "uptime": "96.23%",
-    "uptimeDay": "84.53%",
-    "uptimeWeek": "82.03%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "96.23%",
+    "status": "down",
+    "uptime": "96.27%",
+    "uptimeDay": "84.31%",
+    "uptimeWeek": "82.00%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "96.27%",
     "time": 174,
-    "timeDay": 138,
+    "timeDay": 139,
     "timeWeek": 171,
     "timeMonth": 173,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2025-12-24": 3,
       "2025-12-23": 222,
       "2025-12-22": 170,
       "2025-12-21": 288,
@@ -2392,7 +2393,7 @@
       "2025-12-19": 203,
       "2025-12-18": 344,
       "2025-12-17": 320,
-      "2025-12-16": 68
+      "2025-12-16": 43
     }
   }
 ]
