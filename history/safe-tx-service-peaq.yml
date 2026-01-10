@@ -1,7 +1,7 @@
 url: https://safe-transaction-peaq.safe.global/check/
-status: down
-code: 429
-responseTime: 271
-lastUpdated: 2026-01-10T05:51:48.683Z
+status: up
+code: 200
+responseTime: 840
+lastUpdated: 2026-01-10T05:58:39.156Z
 startTime: 2025-06-19T11:04:40.586Z
 generator: Upptime <https://github.com/upptime/upptime>
