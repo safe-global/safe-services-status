@@ -1,7 +1,7 @@
 url: https://safe-transaction-katana.safe.global/check/
-status: up
-code: 200
-responseTime: 510
-lastUpdated: 2026-01-11T19:08:07.537Z
+status: down
+code: 429
+responseTime: 275
+lastUpdated: 2026-01-11T19:34:58.923Z
 startTime: 2025-06-12T12:51:37.947Z
 generator: Upptime <https://github.com/upptime/upptime>
