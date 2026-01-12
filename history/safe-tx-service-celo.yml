@@ -1,7 +1,7 @@
 url: https://safe-transaction-celo.safe.global/check/
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2026-01-12T10:22:10.293Z
+status: down
+code: 429
+responseTime: 272
+lastUpdated: 2026-01-12T10:37:34.269Z
 startTime: 2023-05-23T15:39:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
