@@ -81,6 +81,8 @@ sites:
     url: https://api.safe.global/tx-service/hyper/check/
   - name: Safe Tx Service (MegaEth)
     url: https://api.safe.global/tx-service/mega/check/
+  - name: Safe Tx Service (Arc Testnet)
+    url: https://api.safe.global/tx-service/arc-testnet/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
