@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/arc-testnet/check/
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2026-01-18T20:01:04.907Z
+status: down
+code: 429
+responseTime: 161
+lastUpdated: 2026-01-18T21:19:20.484Z
 startTime: 2026-01-16T19:30:22.108Z
 generator: Upptime <https://github.com/upptime/upptime>
