@@ -1,7 +1,7 @@
 url: https://safe-transaction-scroll.safe.global/check/
-status: down
-code: 429
-responseTime: 274
-lastUpdated: 2026-01-21T15:29:12.389Z
+status: up
+code: 200
+responseTime: 249
+lastUpdated: 2026-01-21T15:46:28.291Z
 startTime: 2024-06-14T14:47:02.950Z
 generator: Upptime <https://github.com/upptime/upptime>
