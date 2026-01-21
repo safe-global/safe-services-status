@@ -1,7 +1,7 @@
 url: https://safe-transaction-polygon.safe.global/check/
-status: down
-code: 429
-responseTime: 256
-lastUpdated: 2026-01-21T11:17:54.083Z
+status: up
+code: 200
+responseTime: 398
+lastUpdated: 2026-01-21T11:32:10.410Z
 startTime: 2021-08-05T10:30:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
