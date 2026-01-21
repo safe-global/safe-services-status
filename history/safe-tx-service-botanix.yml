@@ -1,7 +1,7 @@
 url: https://safe-transaction-botanix.safe.global/check/
-status: up
-code: 200
-responseTime: 206
-lastUpdated: 2026-01-21T00:35:07.555Z
+status: down
+code: 429
+responseTime: 257
+lastUpdated: 2026-01-21T05:47:41.171Z
 startTime: 2025-08-27T12:42:17.067Z
 generator: Upptime <https://github.com/upptime/upptime>
