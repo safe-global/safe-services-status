@@ -214,9 +214,9 @@
     "slug": "safe-tx-service-sepolia",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.76%",
     "time": 354,
     "timeDay": 423,
@@ -224,7 +224,7 @@
     "timeMonth": 366,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2026-01-25": 63,
+      "2026-01-25": 56,
       "2026-01-20": 52,
       "2026-01-19": 12,
       "2026-01-18": 60,
@@ -274,7 +274,8 @@
       "2025-09-04": 23,
       "2025-09-02": 14,
       "2025-09-01": 60,
-      "2025-08-30": 7
+      "2025-08-30": 7,
+      "2025-08-29": 7
     }
   },
   {
@@ -555,9 +556,9 @@
     "slug": "safe-tx-service-base-sepolia",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.72%",
     "time": 402,
     "timeDay": 419,
@@ -565,7 +566,6 @@
     "timeMonth": 365,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2026-01-25": 7,
       "2026-01-20": 65,
       "2026-01-19": 21,
       "2026-01-18": 44,
@@ -619,7 +619,7 @@
       "2025-05-03": 81,
       "2025-05-01": 15,
       "2025-04-28": 27,
-      "2025-04-26": 5
+      "2025-04-26": 15
     }
   },
   {
@@ -779,17 +779,17 @@
     "slug": "safe-tx-service-avalanche",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.76%",
     "time": 374,
-    "timeDay": 325,
+    "timeDay": 329,
     "timeWeek": 326,
     "timeMonth": 349,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-01-25": 36,
+      "2026-01-25": 29,
       "2026-01-23": 15,
       "2026-01-21": 67,
       "2026-01-20": 11,
@@ -841,7 +841,8 @@
       "2025-11-22": 25,
       "2025-11-21": 16,
       "2025-11-20": 7,
-      "2025-11-19": 29
+      "2025-11-19": 29,
+      "2025-11-18": 7
     }
   },
   {
@@ -916,18 +917,19 @@
     "url": "https://safe-transaction-aurora.safe.global/check/",
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-aurora.safe.global.ico",
     "slug": "safe-tx-service-aurora",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.78%",
     "time": 424,
-    "timeDay": 410,
-    "timeWeek": 364,
-    "timeMonth": 383,
+    "timeDay": 393,
+    "timeWeek": 361,
+    "timeMonth": 382,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2026-01-25": 1,
       "2026-01-22": 15,
       "2026-01-20": 39,
       "2026-01-19": 7,
@@ -985,7 +987,7 @@
       "2025-08-27": 21,
       "2025-08-26": 20,
       "2025-08-25": 14,
-      "2025-07-14": 37
+      "2025-07-14": 23
     }
   },
   {
@@ -1288,9 +1290,9 @@
     "slug": "safe-tx-service-chiado",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.53%",
     "time": 395,
     "timeDay": 323,
@@ -1298,7 +1300,7 @@
     "timeMonth": 354,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2026-01-25": 36,
+      "2026-01-25": 29,
       "2026-01-22": 20,
       "2026-01-21": 51,
       "2026-01-20": 3,
@@ -1355,7 +1357,7 @@
       "2025-05-09": 11,
       "2025-05-08": 9,
       "2025-05-06": 33,
-      "2025-05-03": 29
+      "2025-05-03": 45
     }
   },
   {
@@ -1366,12 +1368,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.70%",
     "time": 465,
     "timeDay": 319,
-    "timeWeek": 346,
+    "timeWeek": 349,
     "timeMonth": 337,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -1584,12 +1586,12 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.14%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.75%",
     "time": 318,
     "timeDay": 370,
     "timeWeek": 315,
-    "timeMonth": 339,
+    "timeMonth": 340,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2026-01-21": 17,
@@ -1659,9 +1661,9 @@
     "slug": "safe-tx-service-berachain",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.74%",
     "time": 331,
     "timeDay": 311,
@@ -1669,7 +1671,6 @@
     "timeMonth": 326,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2026-01-25": 7,
       "2026-01-24": 26,
       "2026-01-23": 24,
       "2026-01-21": 81,
@@ -1727,7 +1728,8 @@
       "2025-09-26": 10,
       "2025-09-20": 7,
       "2025-09-05": 26,
-      "2025-09-04": 23
+      "2025-09-04": 23,
+      "2025-09-02": 8
     }
   },
   {
@@ -2031,9 +2033,9 @@
     "slug": "safe-tx-service-codex",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.55%",
     "time": 308,
     "timeDay": 311,
@@ -2041,7 +2043,6 @@
     "timeMonth": 332,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2026-01-25": 7,
       "2026-01-23": 24,
       "2026-01-22": 39,
       "2026-01-21": 51,
@@ -2094,7 +2095,8 @@
       "2025-09-04": 23,
       "2025-09-02": 15,
       "2025-09-01": 63,
-      "2025-08-30": 7
+      "2025-08-30": 7,
+      "2025-08-29": 7
     }
   },
   {
@@ -2255,9 +2257,9 @@
     "slug": "safe-tx-service-botanix",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.35%",
     "time": 313,
     "timeDay": 353,
@@ -2265,7 +2267,6 @@
     "timeMonth": 330,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2026-01-25": 7,
       "2026-01-23": 62,
       "2026-01-21": 60,
       "2026-01-20": 3,
@@ -2310,7 +2311,7 @@
       "2025-12-05": 16,
       "2025-12-02": 31,
       "2025-12-01": 7,
-      "2025-11-30": 8
+      "2025-11-30": 15
     }
   },
   {
@@ -2396,12 +2397,12 @@
     "slug": "safe-tx-service-plasma",
     "status": "up",
     "uptime": "95.25%",
-    "uptimeDay": "45.07%",
+    "uptimeDay": "45.43%",
     "uptimeWeek": "54.50%",
     "uptimeMonth": "89.53%",
     "uptimeYear": "95.25%",
     "time": 193,
-    "timeDay": 144,
+    "timeDay": 145,
     "timeWeek": 174,
     "timeMonth": 183,
     "timeYear": 193,
@@ -2421,18 +2422,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-0g",
     "status": "down",
-    "uptime": "97.64%",
-    "uptimeDay": "78.85%",
-    "uptimeWeek": "80.46%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "97.64%",
+    "uptime": "97.63%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "80.42%",
+    "uptimeMonth": "94.77%",
+    "uptimeYear": "97.63%",
     "time": 165,
     "timeDay": 149,
     "timeWeek": 147,
     "timeMonth": 158,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-01-25": 178,
+      "2026-01-25": 192,
       "2026-01-24": 170,
       "2026-01-23": 227,
       "2026-01-22": 238,
@@ -2448,19 +2449,19 @@
     "url": "https://api.safe.global/tx-service/stable/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-stable",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "95.87%",
-    "uptimeYear": "98.13%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "98.17%",
     "time": 178,
-    "timeDay": 156,
+    "timeDay": 154,
     "timeWeek": 152,
     "timeMonth": 163,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-01-25": 65,
+      "2026-01-25": 68,
       "2026-01-24": 22,
       "2026-01-23": 43,
       "2026-01-22": 126,
@@ -2475,7 +2476,7 @@
       "2026-01-13": 115,
       "2026-01-12": 182,
       "2026-01-11": 166,
-      "2026-01-10": 169
+      "2026-01-10": 128
     }
   },
   {
@@ -2490,7 +2491,7 @@
     "uptimeMonth": "88.71%",
     "uptimeYear": "94.88%",
     "time": 178,
-    "timeDay": 147,
+    "timeDay": 148,
     "timeWeek": 153,
     "timeMonth": 169,
     "timeYear": 178,
@@ -2511,25 +2512,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-hyper-evm",
     "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "74.39%",
-    "uptimeWeek": "70.50%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "96.92%",
+    "uptime": "96.93%",
+    "uptimeDay": "75.37%",
+    "uptimeWeek": "70.55%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "96.93%",
     "time": 165,
-    "timeDay": 149,
+    "timeDay": 150,
     "timeWeek": 151,
     "timeMonth": 158,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-01-25": 216,
+      "2026-01-25": 202,
       "2026-01-24": 330,
       "2026-01-23": 357,
       "2026-01-22": 452,
       "2026-01-21": 526,
       "2026-01-20": 442,
       "2026-01-19": 549,
-      "2026-01-18": 98
+      "2026-01-18": 107
     }
   },
   {
@@ -2537,19 +2538,19 @@
     "url": "https://api.safe.global/tx-service/mega/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-mega-eth",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "80.61%",
-    "uptimeWeek": "85.64%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "80.39%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "97.60%",
     "time": 166,
-    "timeDay": 158,
+    "timeDay": 156,
     "timeWeek": 146,
     "timeMonth": 157,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-01-25": 198,
+      "2026-01-25": 201,
       "2026-01-24": 82,
       "2026-01-23": 203,
       "2026-01-22": 186,
@@ -2560,8 +2561,7 @@
       "2026-01-17": 150,
       "2026-01-16": 263,
       "2026-01-15": 249,
-      "2026-01-14": 141,
-      "2026-01-13": 10
+      "2026-01-14": 141
     }
   },
   {
@@ -2570,11 +2570,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-arc-testnet",
     "status": "up",
-    "uptime": "79.76%",
+    "uptime": "79.79%",
     "uptimeDay": "79.39%",
     "uptimeWeek": "77.89%",
-    "uptimeMonth": "79.76%",
-    "uptimeYear": "79.76%",
+    "uptimeMonth": "79.79%",
+    "uptimeYear": "79.79%",
     "time": 154,
     "timeDay": 157,
     "timeWeek": 157,
