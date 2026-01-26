@@ -1,7 +1,7 @@
 url: https://safe-transaction-xdc.safe.global/check/
-status: up
-code: 200
-responseTime: 326
-lastUpdated: 2026-01-25T23:03:41.134Z
+status: down
+code: 429
+responseTime: 260
+lastUpdated: 2026-01-26T05:36:57.357Z
 startTime: 2025-08-27T12:42:17.701Z
 generator: Upptime <https://github.com/upptime/upptime>
