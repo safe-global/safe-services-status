@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/monad-testnet/check/
-status: up
-code: 200
-responseTime: 185
-lastUpdated: 2026-01-26T16:49:42.222Z
+status: down
+code: 429
+responseTime: 105
+lastUpdated: 2026-01-26T17:16:40.684Z
 startTime: 2025-11-19T09:51:43.117Z
 generator: Upptime <https://github.com/upptime/upptime>
