@@ -360,9 +360,9 @@
     "slug": "safe-tx-service-polygon-matic",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "99.75%",
     "time": 341,
     "timeDay": 615,
@@ -370,7 +370,7 @@
     "timeMonth": 357,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-01-28": 26,
+      "2026-01-28": 17,
       "2026-01-27": 17,
       "2026-01-26": 16,
       "2026-01-25": 17,
@@ -411,7 +411,8 @@
       "2025-12-19": 24,
       "2025-12-18": 49,
       "2025-12-17": 26,
-      "2025-12-16": 14
+      "2025-12-16": 14,
+      "2025-12-15": 8
     }
   },
   {
@@ -789,12 +790,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.54%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.76%",
     "time": 374,
     "timeDay": 374,
     "timeWeek": 315,
-    "timeMonth": 341,
+    "timeMonth": 342,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2026-01-27": 36,
@@ -859,10 +860,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/safe-transaction-optimism.safe.global.ico",
     "slug": "safe-tx-service-optimism",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "98.47%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "99.76%",
     "time": 320,
     "timeDay": 410,
@@ -870,7 +871,6 @@
     "timeMonth": 354,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-01-28": 9,
       "2026-01-24": 17,
       "2026-01-22": 20,
       "2026-01-21": 34,
@@ -918,7 +918,7 @@
       "2025-09-02": 15,
       "2025-09-01": 60,
       "2025-08-30": 7,
-      "2025-08-29": 39
+      "2025-08-29": 64
     }
   },
   {
@@ -934,7 +934,7 @@
     "uptimeYear": "99.78%",
     "time": 424,
     "timeDay": 360,
-    "timeWeek": 347,
+    "timeWeek": 348,
     "timeMonth": 377,
     "timeYear": 429,
     "dailyMinutesDown": {
@@ -1151,7 +1151,7 @@
     "uptime": "99.83%",
     "uptimeDay": "96.72%",
     "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.09%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.72%",
     "time": 341,
     "timeDay": 331,
@@ -1378,9 +1378,9 @@
     "slug": "safe-tx-service-mantle",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.70%",
     "time": 462,
     "timeDay": 307,
@@ -1388,7 +1388,6 @@
     "timeMonth": 331,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2026-01-28": 9,
       "2026-01-19": 36,
       "2026-01-18": 38,
       "2026-01-17": 32,
@@ -1440,7 +1439,8 @@
       "2025-07-10": 25,
       "2025-07-02": 21,
       "2025-06-29": 19,
-      "2025-06-21": 34
+      "2025-06-21": 34,
+      "2025-06-18": 6
     }
   },
   {
@@ -1681,7 +1681,7 @@
     "uptimeYear": "99.74%",
     "time": 332,
     "timeDay": 327,
-    "timeWeek": 331,
+    "timeWeek": 333,
     "timeMonth": 330,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -2342,9 +2342,9 @@
     "slug": "safe-tx-service-xdc",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.50%",
     "time": 322,
     "timeDay": 310,
@@ -2352,7 +2352,6 @@
     "timeMonth": 332,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-01-28": 9,
       "2026-01-26": 16,
       "2026-01-25": 17,
       "2026-01-21": 17,
@@ -2410,7 +2409,8 @@
       "2025-09-04": 24,
       "2025-09-02": 15,
       "2025-09-01": 63,
-      "2025-08-30": 7
+      "2025-08-30": 7,
+      "2025-08-29": 7
     }
   },
   {
@@ -2418,26 +2418,26 @@
     "url": "https://api.safe.global/tx-service/plasma/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-plasma",
-    "status": "up",
-    "uptime": "95.07%",
-    "uptimeDay": "48.77%",
-    "uptimeWeek": "50.62%",
-    "uptimeMonth": "88.58%",
-    "uptimeYear": "95.07%",
+    "status": "down",
+    "uptime": "95.09%",
+    "uptimeDay": "49.36%",
+    "uptimeWeek": "50.59%",
+    "uptimeMonth": "88.63%",
+    "uptimeYear": "95.09%",
     "time": 192,
-    "timeDay": 166,
+    "timeDay": 164,
     "timeWeek": 170,
     "timeMonth": 180,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2026-01-28": 664,
+      "2026-01-28": 667,
       "2026-01-27": 613,
       "2026-01-26": 630,
       "2026-01-25": 824,
       "2026-01-24": 817,
       "2026-01-23": 547,
       "2026-01-22": 800,
-      "2026-01-21": 106
+      "2026-01-21": 81
     }
   },
   {
@@ -2448,11 +2448,11 @@
     "status": "up",
     "uptime": "97.22%",
     "uptimeDay": "76.65%",
-    "uptimeWeek": "81.29%",
+    "uptimeWeek": "81.40%",
     "uptimeMonth": "93.57%",
     "uptimeYear": "97.22%",
     "time": 164,
-    "timeDay": 130,
+    "timeDay": 129,
     "timeWeek": 137,
     "timeMonth": 155,
     "timeYear": 164,
@@ -2512,19 +2512,19 @@
     "url": "https://api.safe.global/tx-service/monad-testnet/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-monad-testnet",
-    "status": "up",
-    "uptime": "95.02%",
-    "uptimeDay": "57.86%",
-    "uptimeWeek": "55.69%",
-    "uptimeMonth": "88.48%",
-    "uptimeYear": "95.02%",
+    "status": "down",
+    "uptime": "95.05%",
+    "uptimeDay": "57.65%",
+    "uptimeWeek": "55.66%",
+    "uptimeMonth": "88.54%",
+    "uptimeYear": "95.05%",
     "time": 176,
-    "timeDay": 144,
+    "timeDay": 143,
     "timeWeek": 150,
     "timeMonth": 165,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-01-28": 526,
+      "2026-01-28": 529,
       "2026-01-27": 575,
       "2026-01-26": 728,
       "2026-01-25": 464,
@@ -2532,7 +2532,7 @@
       "2026-01-23": 670,
       "2026-01-22": 707,
       "2026-01-21": 554,
-      "2026-01-20": 62
+      "2026-01-20": 33
     }
   },
   {
@@ -2541,18 +2541,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-hyper-evm",
     "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "76.16%",
-    "uptimeWeek": "74.42%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "96.69%",
+    "uptime": "96.68%",
+    "uptimeDay": "76.80%",
+    "uptimeWeek": "74.51%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "96.68%",
     "time": 164,
-    "timeDay": 138,
+    "timeDay": 137,
     "timeWeek": 149,
     "timeMonth": 155,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-01-28": 322,
+      "2026-01-28": 313,
       "2026-01-27": 324,
       "2026-01-26": 309,
       "2026-01-25": 415,
@@ -2560,7 +2560,7 @@
       "2026-01-23": 357,
       "2026-01-22": 452,
       "2026-01-21": 526,
-      "2026-01-20": 322
+      "2026-01-20": 337
     }
   },
   {
@@ -2569,11 +2569,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-mega-eth",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "83.35%",
     "uptimeWeek": "85.81%",
     "uptimeMonth": "94.01%",
-    "uptimeYear": "97.41%",
+    "uptimeYear": "97.42%",
     "time": 166,
     "timeDay": 178,
     "timeWeek": 151,
@@ -2600,19 +2600,19 @@
     "url": "https://api.safe.global/tx-service/arc-testnet/check/",
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-arc-testnet",
-    "status": "up",
-    "uptime": "81.93%",
-    "uptimeDay": "73.94%",
-    "uptimeWeek": "78.27%",
-    "uptimeMonth": "81.93%",
-    "uptimeYear": "81.93%",
+    "status": "down",
+    "uptime": "82.09%",
+    "uptimeDay": "73.69%",
+    "uptimeWeek": "78.23%",
+    "uptimeMonth": "82.09%",
+    "uptimeYear": "82.09%",
     "time": 155,
-    "timeDay": 149,
+    "timeDay": 147,
     "timeWeek": 161,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-01-28": 346,
+      "2026-01-28": 349,
       "2026-01-27": 335,
       "2026-01-26": 282,
       "2026-01-25": 245,
@@ -2621,7 +2621,7 @@
       "2026-01-22": 169,
       "2026-01-21": 321,
       "2026-01-20": 421,
-      "2026-01-19": 261
+      "2026-01-19": 232
     }
   }
 ]
