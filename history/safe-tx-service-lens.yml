@@ -1,7 +1,7 @@
 url: https://safe-transaction-lens.safe.global/check/
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2026-01-28T23:06:12.674Z
+status: down
+code: 429
+responseTime: 280
+lastUpdated: 2026-01-29T03:53:57.671Z
 startTime: 2025-04-29T10:31:53.750Z
 generator: Upptime <https://github.com/upptime/upptime>
