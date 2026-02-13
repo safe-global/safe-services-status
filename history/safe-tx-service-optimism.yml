@@ -1,7 +1,7 @@
 url: https://safe-transaction-optimism.safe.global/check/
-status: down
-code: 429
-responseTime: 279
-lastUpdated: 2026-02-13T15:42:28.810Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2026-02-13T16:01:27.146Z
 startTime: 2022-04-27T08:51:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
