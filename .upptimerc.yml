@@ -87,6 +87,8 @@ sites:
     url: https://api.safe.global/tx-service/ctc/check/
   - name: Safe Tx Service (Mantle Sepolia)
     url: https://api.safe.global/tx-service/mnt-sep/check/
+  - name: Safe Tx Service (Tempo Moderato)
+    url: https://api.safe.global/tx-service/tempo-moderato/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
