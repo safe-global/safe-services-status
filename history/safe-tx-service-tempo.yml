@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/tempo/check/
 status: down
 code: 503
-responseTime: 490
-lastUpdated: 2026-03-19T21:58:26.612Z
+responseTime: 101
+lastUpdated: 2026-03-19T23:07:55.968Z
 startTime: 2026-03-19T20:50:55.701Z
 generator: Upptime <https://github.com/upptime/upptime>
