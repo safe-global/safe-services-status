@@ -1848,7 +1848,7 @@
     "status": "up",
     "uptime": "93.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.19%",
+    "uptimeWeek": "39.23%",
     "uptimeMonth": "30.20%",
     "uptimeYear": "93.72%",
     "time": 350,
@@ -3022,18 +3022,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-pharos",
     "status": "up",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 4
+      "2026-04-24": 7
     }
   }
 ]
