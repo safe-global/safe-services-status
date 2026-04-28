@@ -1838,7 +1838,7 @@
     "status": "up",
     "uptime": "93.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.72%",
+    "uptimeWeek": "94.75%",
     "uptimeMonth": "30.24%",
     "uptimeYear": "93.79%",
     "time": 350,
@@ -3032,18 +3032,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-celo-sepolia",
     "status": "up",
-    "uptime": "0.49%",
-    "uptimeDay": "0.49%",
-    "uptimeWeek": "0.49%",
-    "uptimeMonth": "0.49%",
-    "uptimeYear": "0.49%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-28": 5
+      "2026-04-28": 8
     }
   }
 ]
