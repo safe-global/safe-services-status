@@ -98,7 +98,7 @@ sites:
   - name: Safe Tx Service (Pharos)
     url: https://api.safe.global/tx-service/pharos/check/
   - name: Safe Tx Service (Celo Sepolia)
-    url: https://api.safe.global/tx-service/celo-sepolia/check/
+    url: https://api.safe.global/tx-service/celo-sep/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
