@@ -16,8 +16,6 @@
 
 name: Updates CI
 on:
-  schedule:
-    - cron: "0 3 * * *"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
