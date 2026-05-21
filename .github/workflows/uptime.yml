@@ -27,12 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@v1.41.2
+        uses: upptime/uptime-monitor@183cc1707762b9c7fa180695339d277a7840a1c8 # v1.41.2
         with:
           command: "update"
         env:
