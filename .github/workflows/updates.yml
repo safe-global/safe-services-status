@@ -16,8 +16,6 @@
 
 name: Updates CI
 on:
-  schedule:
-    - cron: "0 3 * * *"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
@@ -27,11 +25,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update code
-        uses: upptime/updates@master
+        uses: upptime/updates@c8be3a2281e37dfb3211b7cd8f847b014e551634 # master
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
