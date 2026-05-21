@@ -21,6 +21,8 @@ on:
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   release:
     name: Build and deploy site
