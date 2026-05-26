@@ -2769,11 +2769,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-arc-testnet",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 163,
     "timeDay": 467,
     "timeWeek": 465,
@@ -3000,5 +3000,25 @@
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Safe Tx Service (Aetherium)",
+    "url": "https://api.safe.global/tx-service/aeth/check/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
+    "slug": "safe-tx-service-aetherium",
+    "status": "up",
+    "uptime": "2.29%",
+    "uptimeDay": "2.29%",
+    "uptimeWeek": "2.29%",
+    "uptimeMonth": "2.29%",
+    "uptimeYear": "2.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-05-26": 9
+    }
   }
 ]
