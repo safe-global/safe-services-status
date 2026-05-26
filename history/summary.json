@@ -3007,18 +3007,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safe.global.ico",
     "slug": "safe-tx-service-aetherium",
     "status": "up",
-    "uptime": "3.82%",
-    "uptimeDay": "3.82%",
-    "uptimeWeek": "3.82%",
-    "uptimeMonth": "3.82%",
-    "uptimeYear": "3.82%",
+    "uptime": "2.29%",
+    "uptimeDay": "2.29%",
+    "uptimeWeek": "2.29%",
+    "uptimeMonth": "2.29%",
+    "uptimeYear": "2.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 5
+      "2026-05-26": 9
     }
   }
 ]
