@@ -1,7 +1,7 @@
-url: https://api.safe.global/tx-service/celo-sepolia/check/
-status: down
-code: 404
-responseTime: 179
-lastUpdated: 2026-05-26T08:27:18.992Z
+url: https://api.safe.global/tx-service/celo-sep/check/
+status: up
+code: 200
+responseTime: 498
+lastUpdated: 2026-05-27T14:21:32.851Z
 startTime: 2026-04-28T07:36:23.579Z
 generator: Upptime <https://github.com/upptime/upptime>
