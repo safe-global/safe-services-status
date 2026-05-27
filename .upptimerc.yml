@@ -97,7 +97,7 @@ sites:
     url: https://api.safe.global/tx-service/robinhood-testnet/check/
   - name: Safe Tx Service (Pharos)
     url: https://api.safe.global/tx-service/pharos/check/
-  - name: Safe Tx Service (Celo Sepolia)
+  - name: Safe Tx Service (Celo  Sepolia)
     url: https://api.safe.global/tx-service/celo-sep/check/
   - name: Safe Tx Service (Arc)
     url: https://api.safe.global/tx-service/arc/check/
