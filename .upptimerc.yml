@@ -103,6 +103,8 @@ sites:
     url: https://api.safe.global/tx-service/arc/check/
   - name: Safe Tx Service (Aetherium)
     url: https://api.safe.global/tx-service/aeth/check/
+  - name: Safe Tx Service (Kairos)
+    url: https://api.safe.global/tx-service/kairos/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
