@@ -5,106 +5,157 @@ skipTopicsUpdate: true
 sites:
   - name: Safe Client Gateway
     url: https://safe-client.safe.global/health/ready/
+    icon: https://app.safe.global/favicon.ico
   - name: Safe Tx Service (Mainnet)
     url: https://safe-transaction-mainnet.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/1/chain_logo.png
   - name: Safe Tx Service (Gnosis Chain)
     url: https://safe-transaction-gnosis-chain.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/100/chain_logo.png
   - name: Safe Tx Service (Sepolia)
     url: https://safe-transaction-sepolia.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/11155111/chain_logo.png
   - name: Safe Tx Service (Binance Smart Chain)
     url: https://safe-transaction-bsc.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/56/chain_logo.png
   - name: Safe Tx Service (Polygon - Matic)
     url: https://safe-transaction-polygon.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/137/chain_logo.png
   - name: Safe Tx Service (Polygon - zkEVM)
     url: https://safe-transaction-zkevm.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/1101/chain_logo.png
   - name: Safe Tx Service (Base Mainnet)
     url: https://safe-transaction-base.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/8453/chain_logo.png
   - name: Safe Tx Service (Base Sepolia)
     url: https://safe-transaction-base-sepolia.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/84532/chain_logo.png
   - name: Safe Tx Service (Celo)
     url: https://safe-transaction-celo.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/42220/chain_logo.png
   - name: Safe Tx Service (Arbitrum)
     url: https://safe-transaction-arbitrum.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/42161/chain_logo.png
   - name: Safe Tx Service (Avalanche)
     url: https://safe-transaction-avalanche.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/43114/chain_logo.png
   - name: Safe Tx Service (Optimism)
     url: https://safe-transaction-optimism.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/10/chain_logo.png
   - name: Safe Tx Service (Aurora)
     url: https://safe-transaction-aurora.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/1313161554/chain_logo.png
   - name: Safe Tx Service (zkSync Era Mainnet)
     url: https://safe-transaction-zksync.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/324/chain_logo.png
   - name: Safe Tx Service (xLayer)
     url: https://safe-transaction-xlayer.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/196/chain_logo.png
   - name: Safe Tx Service (Scroll)
     url: https://safe-transaction-scroll.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/534352/chain_logo.png
   - name: Safe Tx Service (Linea)
     url: https://safe-transaction-linea.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/59144/chain_logo.png
   - name: Safe Tx Service (Chiado)
     url: https://safe-transaction-chiado.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/10200/chain_logo.png
   - name: Safe Tx Service (Mantle)
     url: https://safe-transaction-mantle.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/5000/chain_logo.png
   - name: Safe Tx Service (Sonic)
     url: https://safe-transaction-sonic.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/146/chain_logo.png
   - name: Safe Tx Service (Ink)
     url: https://safe-transaction-ink.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/57073/chain_logo.png
   - name: Safe Tx Service (Unichain)
     url: https://safe-transaction-unichain.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/130/chain_logo.png
   - name: Safe Tx Service (Berachain)
     url: https://safe-transaction-berachain.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/80094/chain_logo.png
   - name: Safe Tx Service (Lens)
     url: https://safe-transaction-lens.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/232/chain_logo.png
   - name: Safe Tx Service (Hemi)
     url: https://safe-transaction-hemi.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/43111/chain_logo.png
   - name: Safe Tx Service (Katana)
     url: https://safe-transaction-katana.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/747474/chain_logo.png
   - name: Safe Tx Service (Peaq)
     url: https://safe-transaction-peaq.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/3338/chain_logo.png
   - name: Safe Tx Service (Codex)
     url: https://safe-transaction-codex.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/81224/chain_logo.png
   - name: Safe Tx Service (Monad)
     url: https://safe-transaction-monad.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/143/chain_logo.png
   - name: Safe Tx Service (OpBNB)
     url: https://safe-transaction-opbnb.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/204/chain_logo.png
   - name: Safe Tx Service (Botanix)
     url: https://safe-transaction-botanix.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/3637/chain_logo.png
   - name: Safe Tx Service (XDC)
     url: https://safe-transaction-xdc.safe.global/check/
+    icon: https://safe-transaction-assets.safe.global/chains/50/chain_logo.png
   - name: Safe Tx Service (Plasma)
     url: https://api.safe.global/tx-service/plasma/check/
+    icon: https://safe-transaction-assets.safe.global/chains/9745/chain_logo.png
   - name: Safe Tx Service (0g)
     url: https://api.safe.global/tx-service/0g/check/
+    icon: https://safe-transaction-assets.safe.global/chains/16661/chain_logo.png
   - name: Safe Tx Service (Stable)
     url: https://api.safe.global/tx-service/stable/check/
+    icon: https://safe-transaction-assets.safe.global/chains/988/chain_logo.png
   - name: Safe Tx Service (Monad Testnet)
     url: https://api.safe.global/tx-service/monad-testnet/check/
+    icon: https://safe-transaction-assets.safe.global/chains/10143/chain_logo.png
   - name: Safe Tx Service (HyperEvm)
     url: https://api.safe.global/tx-service/hyper/check/
+    icon: https://safe-transaction-assets.safe.global/chains/999/chain_logo.png
   - name: Safe Tx Service (MegaEth)
     url: https://api.safe.global/tx-service/mega/check/
+    icon: https://safe-transaction-assets.safe.global/chains/4326/chain_logo.png
   - name: Safe Tx Service (Arc Testnet)
     url: https://api.safe.global/tx-service/arc-testnet/check/
+    icon: https://safe-transaction-assets.safe.global/chains/5042002/chain_logo.png
   - name: Safe Tx Service (Creditcoin)
     url: https://api.safe.global/tx-service/ctc/check/
+    icon: https://safe-transaction-assets.safe.global/chains/102030/chain_logo.png
   - name: Safe Tx Service (Mantle Sepolia)
     url: https://api.safe.global/tx-service/mnt-sep/check/
+    icon: https://safe-transaction-assets.safe.global/chains/5003/chain_logo.png
   - name: Safe Tx Service (Tempo Moderato)
     url: https://api.safe.global/tx-service/tempo-moderato/check/
+    icon: https://safe-transaction-assets.safe.global/chains/42431/chain_logo.png
   - name: Safe Tx Service (Tempo)
     url: https://api.safe.global/tx-service/tempo/check/
+    icon: https://safe-transaction-assets.safe.global/chains/4217/chain_logo.png
   - name: Safe Tx Service (Fluent)
     url: https://api.safe.global/tx-service/fluent/check/
+    icon: https://safe-transaction-assets.safe.global/chains/25363/chain_logo.png
   - name: Safe Tx Service (Robinhood Testnet)
     url: https://api.safe.global/tx-service/robinhood-testnet/check/
+    icon: https://safe-transaction-assets.safe.global/chains/46630/chain_logo.png
   - name: Safe Tx Service (Pharos)
     url: https://api.safe.global/tx-service/pharos/check/
+    icon: https://safe-transaction-assets.safe.global/chains/1672/chain_logo.png
   - name: Safe Tx Service (Celo  Sepolia)
     url: https://api.safe.global/tx-service/celo-sep/check/
+    icon: https://safe-transaction-assets.safe.global/chains/11142220/chain_logo.png
   - name: Safe Tx Service (Arc)
     url: https://api.safe.global/tx-service/arc/check/
+    icon: https://safe-transaction-assets.safe.global/chains/5042/chain_logo.png
   - name: Safe Tx Service (Aetherium)
     url: https://api.safe.global/tx-service/aeth/check/
+    icon: https://safe-transaction-assets.safe.global/chains/4663/chain_logo.png
   - name: Safe Tx Service (Kairos)
     url: https://api.safe.global/tx-service/kairos/check/
+    icon: https://icons.llamao.fi/icons/chains/rsz_kaia.jpg
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

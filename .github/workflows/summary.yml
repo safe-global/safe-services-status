@@ -27,12 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.41.9
+        uses: upptime/uptime-monitor@30868e4611f17aa17e47496fea6ab24c4f7453c7 # v1.41.9
         with:
           command: "readme"
         env:
