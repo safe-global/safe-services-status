@@ -32,12 +32,11 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Update template
-        uses: upptime/uptime-monitor@30868e4611f17aa17e47496fea6ab24c4f7453c7 # v1.41.9
-        with:
-          command: "update-template"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      # NOTE: "Update template" step removed on purpose.
+      # It regenerates every workflow from the upstream Upptime template, which uses
+      # unpinned tag refs (@v5, @v1.41.x, @master, ...). The safe-global org policy
+      # rejects unpinned actions, so each regeneration breaks all CI. See #18228, this PR.
+      # Workflows are now hand-pinned to commit SHAs; bump them deliberately when needed.
       - name: Update response time
         uses: upptime/uptime-monitor@30868e4611f17aa17e47496fea6ab24c4f7453c7 # v1.41.9
         with:
