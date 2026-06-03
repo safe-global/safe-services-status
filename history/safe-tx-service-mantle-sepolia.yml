@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/mnt-sep/check/
-status: down
-code: 403
-responseTime: 38
-lastUpdated: 2026-06-03T20:19:03.681Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2026-06-03T21:24:01.273Z
 startTime: 2026-03-09T14:14:37.684Z
 generator: Upptime <https://github.com/upptime/upptime>
