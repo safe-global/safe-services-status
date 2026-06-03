@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/tempo-moderato/check/
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2026-06-03T21:24:04.173Z
+status: down
+code: 403
+responseTime: 87
+lastUpdated: 2026-06-03T23:40:12.344Z
 startTime: 2026-03-13T10:03:54.843Z
 generator: Upptime <https://github.com/upptime/upptime>
