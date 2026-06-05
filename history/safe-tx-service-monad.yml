@@ -1,7 +1,7 @@
 url: https://safe-transaction-monad.safe.global/check/
-status: down
-code: 403
-responseTime: 95
-lastUpdated: 2026-06-05T02:29:29.046Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2026-06-05T03:44:26.840Z
 startTime: 2025-07-23T17:37:01.782Z
 generator: Upptime <https://github.com/upptime/upptime>
