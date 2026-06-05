@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/pharos/check/
-status: down
-code: 403
-responseTime: 40
-lastUpdated: 2026-06-05T02:33:23.157Z
+status: up
+code: 200
+responseTime: 195
+lastUpdated: 2026-06-05T03:45:10.389Z
 startTime: 2026-04-24T10:19:44.208Z
 generator: Upptime <https://github.com/upptime/upptime>
