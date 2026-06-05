@@ -1,7 +1,7 @@
 url: https://safe-transaction-mainnet.safe.global/check/
-status: up
-code: 200
-responseTime: 440
-lastUpdated: 2026-06-04T23:23:32.911Z
+status: down
+code: 403
+responseTime: 138
+lastUpdated: 2026-06-05T02:23:04.372Z
 startTime: 2021-08-05T10:30:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
