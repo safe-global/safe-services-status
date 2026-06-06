@@ -1,7 +1,7 @@
 url: https://safe-transaction-codex.safe.global/check/
-status: up
-code: 200
-responseTime: 466
-lastUpdated: 2026-06-05T23:24:55.540Z
+status: down
+code: 403
+responseTime: 36
+lastUpdated: 2026-06-06T04:49:38.522Z
 startTime: 2025-07-15T12:51:17.948Z
 generator: Upptime <https://github.com/upptime/upptime>
