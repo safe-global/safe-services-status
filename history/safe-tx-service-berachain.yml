@@ -1,7 +1,7 @@
 url: https://safe-transaction-berachain.safe.global/check/
-status: down
-code: 403
-responseTime: 34
-lastUpdated: 2026-06-07T19:21:56.912Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2026-06-07T19:52:27.211Z
 startTime: 2025-02-17T09:20:55.646Z
 generator: Upptime <https://github.com/upptime/upptime>
