@@ -156,6 +156,9 @@ sites:
   - name: Safe Tx Service (Kairos)
     url: https://api.safe.global/tx-service/kairos/check/
     icon: https://icons.llamao.fi/icons/chains/rsz_kaia.jpg
+  - name: Safe Tx Service (Kaia)
+    url: https://api.safe.global/tx-service/kaia/check/
+    icon: https://safe-transaction-assets.safe.global/chains/8217/chain_logo.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
