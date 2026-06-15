@@ -1,7 +1,7 @@
 url: https://safe-transaction-gnosis-chain.safe.global/check/
-status: down
-code: 403
-responseTime: 40
-lastUpdated: 2026-06-15T00:10:41.610Z
+status: up
+code: 200
+responseTime: 404
+lastUpdated: 2026-06-15T01:30:16.319Z
 startTime: 2022-12-21T17:20:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
