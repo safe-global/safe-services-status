@@ -21,6 +21,8 @@ on:
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   release:
     name: Deploy updates

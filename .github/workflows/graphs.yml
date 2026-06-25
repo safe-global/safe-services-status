@@ -21,6 +21,8 @@ on:
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   release:
     name: Generate graphs
@@ -29,8 +31,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
         with:
-          ref: ${{ github.head_ref }}
+          ref: status
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@2dc316deee8e90f13e1a351ab510b4d5bc0c82cd # v7.0.0
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_config_global: true
+          git_committer_name: 'GH Signer Bot'
+          git_committer_email: 'gh-signer-bot@safe.global'
       - name: Generate graphs
         uses: upptime/uptime-monitor@30868e4611f17aa17e47496fea6ab24c4f7453c7 # v1.41.9
         with:
