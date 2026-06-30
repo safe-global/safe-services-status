@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/celo-sep/check/
-status: down
-code: 503
-responseTime: 152
-lastUpdated: 2026-06-30T13:43:23.114Z
+status: up
+code: 200
+responseTime: 504
+lastUpdated: 2026-06-30T14:39:25.772Z
 startTime: 2026-04-28T07:36:23.579Z
 generator: Upptime <https://github.com/upptime/upptime>
