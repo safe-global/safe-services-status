@@ -3317,18 +3317,18 @@
     "icon": "https://safe-transaction-assets.safe.global/chains/677/chain_logo.png",
     "slug": "safe-tx-service-botchain",
     "status": "up",
-    "uptime": "3.71%",
-    "uptimeDay": "3.71%",
-    "uptimeWeek": "3.71%",
-    "uptimeMonth": "3.71%",
-    "uptimeYear": "3.71%",
+    "uptime": "2.21%",
+    "uptimeDay": "2.21%",
+    "uptimeWeek": "2.21%",
+    "uptimeMonth": "2.21%",
+    "uptimeYear": "2.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 6
+      "2026-07-07": 9
     }
   }
 ]
