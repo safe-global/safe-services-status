@@ -356,19 +356,18 @@
     "url": "https://safe-transaction-zkevm.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/1101/chain_logo.png",
     "slug": "safe-tx-service-polygon-zk-evm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 407,
-    "timeDay": 623,
-    "timeWeek": 482,
-    "timeMonth": 386,
+    "timeDay": 550,
+    "timeWeek": 481,
+    "timeMonth": 388,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-07-15": 15,
       "2025-08-25": 14,
       "2025-08-26": 20,
       "2025-08-27": 21,
@@ -428,7 +427,8 @@
       "2026-06-13": 52,
       "2026-06-14": 59,
       "2026-06-15": 79,
-      "2026-06-17": 46
+      "2026-06-17": 46,
+      "2026-07-07": 1
     }
   },
   {
