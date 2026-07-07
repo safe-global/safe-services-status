@@ -3260,11 +3260,11 @@
     "icon": "https://icons.llamao.fi/icons/chains/rsz_kaia.jpg",
     "slug": "safe-tx-service-kairos",
     "status": "up",
-    "uptime": "95.25%",
+    "uptime": "95.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "95.25%",
+    "uptimeYear": "95.26%",
     "time": 266,
     "timeDay": 469,
     "timeWeek": 468,
@@ -3293,11 +3293,11 @@
     "icon": "https://safe-transaction-assets.safe.global/chains/8217/chain_logo.png",
     "slug": "safe-tx-service-kaia",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 339,
     "timeDay": 467,
     "timeWeek": 467,
@@ -3309,6 +3309,26 @@
       "2026-06-14": 42,
       "2026-06-15": 70,
       "2026-06-17": 38
+    }
+  },
+  {
+    "name": "Safe Tx Service (Botchain)",
+    "url": "https://api.safe.global/tx-service/bot/check/",
+    "icon": "https://safe-transaction-assets.safe.global/chains/677/chain_logo.png",
+    "slug": "safe-tx-service-botchain",
+    "status": "up",
+    "uptime": "2.21%",
+    "uptimeDay": "2.21%",
+    "uptimeWeek": "2.21%",
+    "uptimeMonth": "2.21%",
+    "uptimeYear": "2.21%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-07-07": 9
     }
   }
 ]
