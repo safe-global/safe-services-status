@@ -21,9 +21,6 @@ sites:
   - name: Safe Tx Service (Polygon - Matic)
     url: https://safe-transaction-polygon.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/137/chain_logo.png
-  - name: Safe Tx Service (Polygon - zkEVM)
-    url: https://safe-transaction-zkevm.safe.global/check/
-    icon: https://safe-transaction-assets.safe.global/chains/1101/chain_logo.png
   - name: Safe Tx Service (Base Mainnet)
     url: https://safe-transaction-base.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/8453/chain_logo.png
