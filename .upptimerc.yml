@@ -147,8 +147,8 @@ sites:
   - name: Safe Tx Service (Arc)
     url: https://api.safe.global/tx-service/arc/check/
     icon: https://safe-transaction-assets.safe.global/chains/5042/chain_logo.png
-  - name: Safe Tx Service (Aetherium)
-    url: https://api.safe.global/tx-service/aeth/check/
+  - name: Safe Tx Service (Robinhood)
+    url: https://api.safe.global/tx-service/robinhood/check/
     icon: https://safe-transaction-assets.safe.global/chains/4663/chain_logo.png
   - name: Safe Tx Service (Kairos)
     url: https://api.safe.global/tx-service/kairos/check/
