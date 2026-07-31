@@ -3294,18 +3294,18 @@
     "icon": "https://safe-transaction-assets.safe.global/chains/36900/chain_logo.png",
     "slug": "safe-tx-service-adi",
     "status": "up",
-    "uptime": "4.12%",
-    "uptimeDay": "4.12%",
-    "uptimeWeek": "4.12%",
-    "uptimeMonth": "4.12%",
-    "uptimeYear": "4.12%",
+    "uptime": "2.64%",
+    "uptimeDay": "2.64%",
+    "uptimeWeek": "2.64%",
+    "uptimeMonth": "2.64%",
+    "uptimeYear": "2.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 5
+      "2026-07-31": 8
     }
   }
 ]
