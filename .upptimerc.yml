@@ -162,6 +162,9 @@ sites:
   - name: Safe Tx Service (Whitechain Sepolia)
     url: https://api.safe.global/tx-service/wch-sepolia/check/
     icon: https://safe-transaction-assets.safe.global/chains/1874/chain_logo.png
+  - name: Safe Tx Service (ADI)
+    url: https://api.safe.global/tx-service/adi/check/
+    icon: https://safe-transaction-assets.safe.global/chains/36900/chain_logo.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
