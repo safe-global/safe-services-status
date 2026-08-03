@@ -43,17 +43,17 @@
     "url": "https://safe-transaction-mainnet.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/1/chain_logo.png",
     "slug": "safe-tx-service-mainnet",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.52%",
-    "time": 490,
-    "timeDay": 337,
-    "timeWeek": 478,
-    "timeMonth": 497,
-    "timeYear": 511,
+    "time": 492,
+    "timeDay": 650,
+    "timeWeek": 550,
+    "timeMonth": 517,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-08-25": 14,
       "2025-08-26": 20,
@@ -85,7 +85,7 @@
       "2026-06-15": 80,
       "2026-06-17": 47,
       "2026-07-16": 195,
-      "2026-08-03": 12
+      "2026-08-03": 42
     }
   },
   {
@@ -93,17 +93,17 @@
     "url": "https://safe-transaction-gnosis-chain.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/100/chain_logo.png",
     "slug": "safe-tx-service-gnosis-chain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.52%",
-    "time": 379,
-    "timeDay": 347,
-    "timeWeek": 467,
-    "timeMonth": 494,
-    "timeYear": 366,
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.51%",
+    "time": 380,
+    "timeDay": 437,
+    "timeWeek": 481,
+    "timeMonth": 497,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-08-05": 7,
       "2025-08-25": 14,
@@ -137,7 +137,7 @@
       "2026-06-17": 46,
       "2026-06-30": 56,
       "2026-07-16": 195,
-      "2026-08-03": 12
+      "2026-08-03": 42
     }
   },
   {
@@ -145,16 +145,16 @@
     "url": "https://safe-transaction-sepolia.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/11155111/chain_logo.png",
     "slug": "safe-tx-service-sepolia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.34%",
     "time": 361,
-    "timeDay": 271,
-    "timeWeek": 423,
-    "timeMonth": 459,
+    "timeDay": 434,
+    "timeWeek": 453,
+    "timeMonth": 466,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-12-27": 7,
@@ -218,7 +218,7 @@
       "2026-06-17": 46,
       "2026-06-20": 38,
       "2026-07-16": 195,
-      "2026-08-03": 12
+      "2026-08-03": 42
     }
   },
   {
@@ -226,15 +226,15 @@
     "url": "https://safe-transaction-bsc.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/56/chain_logo.png",
     "slug": "safe-tx-service-binance-smart-chain",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.49%",
     "time": 383,
-    "timeDay": 249,
-    "timeWeek": 414,
+    "timeDay": 314,
+    "timeWeek": 416,
     "timeMonth": 447,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -280,7 +280,7 @@
       "2026-06-15": 79,
       "2026-06-17": 46,
       "2026-07-16": 194,
-      "2026-08-03": 12
+      "2026-08-03": 41
     }
   },
   {
@@ -288,17 +288,17 @@
     "url": "https://safe-transaction-polygon.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/137/chain_logo.png",
     "slug": "safe-tx-service-polygon-matic",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.29%",
     "time": 352,
-    "timeDay": 241,
-    "timeWeek": 398,
-    "timeMonth": 441,
-    "timeYear": 351,
+    "timeDay": 323,
+    "timeWeek": 406,
+    "timeMonth": 442,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2026-01-10": 15,
       "2026-01-11": 43,
@@ -352,7 +352,7 @@
       "2026-06-15": 79,
       "2026-06-17": 46,
       "2026-07-16": 194,
-      "2026-08-03": 12
+      "2026-08-03": 41
     }
   },
   {
@@ -360,15 +360,15 @@
     "url": "https://safe-transaction-base.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/8453/chain_logo.png",
     "slug": "safe-tx-service-base-mainnet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.35%",
     "time": 330,
-    "timeDay": 245,
-    "timeWeek": 396,
+    "timeDay": 309,
+    "timeWeek": 399,
     "timeMonth": 445,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -431,7 +431,7 @@
       "2026-06-15": 79,
       "2026-06-17": 46,
       "2026-07-16": 194,
-      "2026-08-03": 12
+      "2026-08-03": 41
     }
   },
   {
@@ -439,16 +439,16 @@
     "url": "https://safe-transaction-base-sepolia.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/84532/chain_logo.png",
     "slug": "safe-tx-service-base-sepolia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.33%",
     "time": 441,
-    "timeDay": 247,
-    "timeWeek": 445,
-    "timeMonth": 451,
+    "timeDay": 301,
+    "timeWeek": 442,
+    "timeMonth": 450,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-09-05": 25,
@@ -515,7 +515,7 @@
       "2026-06-15": 78,
       "2026-06-17": 45,
       "2026-07-16": 194,
-      "2026-08-03": 12
+      "2026-08-03": 41
     }
   },
   {
@@ -523,16 +523,16 @@
     "url": "https://safe-transaction-celo.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/42220/chain_logo.png",
     "slug": "safe-tx-service-celo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.35%",
-    "time": 395,
-    "timeDay": 359,
-    "timeWeek": 403,
-    "timeMonth": 442,
+    "time": 396,
+    "timeDay": 408,
+    "timeWeek": 412,
+    "timeMonth": 443,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-12-27": 21,
@@ -593,7 +593,7 @@
       "2026-06-17": 45,
       "2026-06-22": 118,
       "2026-07-16": 193,
-      "2026-08-03": 11
+      "2026-08-03": 41
     }
   },
   {
@@ -601,15 +601,15 @@
     "url": "https://safe-transaction-arbitrum.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/42161/chain_logo.png",
     "slug": "safe-tx-service-arbitrum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.39%",
     "time": 330,
-    "timeDay": 315,
-    "timeWeek": 401,
+    "timeDay": 364,
+    "timeWeek": 407,
     "timeMonth": 442,
     "timeYear": 331,
     "dailyMinutesDown": {
@@ -680,7 +680,7 @@
       "2026-06-15": 78,
       "2026-06-17": 45,
       "2026-07-16": 193,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -688,16 +688,16 @@
     "url": "https://safe-transaction-avalanche.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/43114/chain_logo.png",
     "slug": "safe-tx-service-avalanche",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.37%",
-    "time": 389,
-    "timeDay": 241,
-    "timeWeek": 386,
-    "timeMonth": 425,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.36%",
+    "time": 390,
+    "timeDay": 369,
+    "timeWeek": 407,
+    "timeMonth": 430,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-12-25": 16,
@@ -759,7 +759,7 @@
       "2026-06-17": 45,
       "2026-07-16": 193,
       "2026-07-21": 87,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -767,17 +767,17 @@
     "url": "https://safe-transaction-optimism.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/10/chain_logo.png",
     "slug": "safe-tx-service-optimism",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.37%",
     "time": 328,
-    "timeDay": 243,
-    "timeWeek": 374,
-    "timeMonth": 415,
-    "timeYear": 326,
+    "timeDay": 378,
+    "timeWeek": 399,
+    "timeMonth": 421,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-12-20": 7,
       "2025-12-21": 11,
@@ -835,7 +835,7 @@
       "2026-06-17": 45,
       "2026-07-01": 96,
       "2026-07-16": 193,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -843,16 +843,16 @@
     "url": "https://safe-transaction-aurora.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/1313161554/chain_logo.png",
     "slug": "safe-tx-service-aurora",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.38%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.37%",
     "time": 441,
-    "timeDay": 249,
-    "timeWeek": 382,
-    "timeMonth": 424,
+    "timeDay": 315,
+    "timeWeek": 388,
+    "timeMonth": 425,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-12-07": 19,
@@ -921,7 +921,7 @@
       "2026-06-15": 77,
       "2026-06-17": 45,
       "2026-07-16": 193,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -929,17 +929,17 @@
     "url": "https://safe-transaction-zksync.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/324/chain_logo.png",
     "slug": "safe-tx-service-zk-sync-era-mainnet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.39%",
     "time": 440,
-    "timeDay": 240,
+    "timeDay": 291,
     "timeWeek": 388,
-    "timeMonth": 431,
-    "timeYear": 331,
+    "timeMonth": 430,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2025-11-17": 7,
       "2025-11-18": 19,
@@ -1010,7 +1010,7 @@
       "2026-06-15": 77,
       "2026-06-17": 44,
       "2026-07-16": 192,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -1018,16 +1018,16 @@
     "url": "https://safe-transaction-xlayer.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/196/chain_logo.png",
     "slug": "safe-tx-service-x-layer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.34%",
     "time": 343,
-    "timeDay": 247,
-    "timeWeek": 356,
-    "timeMonth": 524,
+    "timeDay": 330,
+    "timeWeek": 369,
+    "timeMonth": 523,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2026-01-12": 9,
@@ -1089,7 +1089,7 @@
       "2026-06-15": 77,
       "2026-06-17": 44,
       "2026-07-16": 192,
-      "2026-08-03": 11
+      "2026-08-03": 40
     }
   },
   {
@@ -1097,15 +1097,15 @@
     "url": "https://safe-transaction-scroll.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/534352/chain_logo.png",
     "slug": "safe-tx-service-scroll",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.38%",
     "time": 377,
-    "timeDay": 249,
-    "timeWeek": 393,
+    "timeDay": 300,
+    "timeWeek": 394,
     "timeMonth": 428,
     "timeYear": 341,
     "dailyMinutesDown": {
@@ -1178,7 +1178,7 @@
       "2026-06-15": 77,
       "2026-06-17": 44,
       "2026-07-16": 192,
-      "2026-08-03": 11
+      "2026-08-03": 39
     }
   },
   {
@@ -1186,17 +1186,17 @@
     "url": "https://safe-transaction-linea.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/59144/chain_logo.png",
     "slug": "safe-tx-service-linea",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.37%",
-    "time": 385,
-    "timeDay": 240,
-    "timeWeek": 401,
-    "timeMonth": 426,
-    "timeYear": 327,
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.36%",
+    "time": 386,
+    "timeDay": 502,
+    "timeWeek": 458,
+    "timeMonth": 441,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-12-16": 7,
       "2025-12-17": 18,
@@ -1259,7 +1259,7 @@
       "2026-06-17": 44,
       "2026-07-16": 192,
       "2026-07-21": 87,
-      "2026-08-03": 10
+      "2026-08-03": 39
     }
   },
   {
@@ -1267,16 +1267,16 @@
     "url": "https://safe-transaction-chiado.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/10200/chain_logo.png",
     "slug": "safe-tx-service-chiado",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.23%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.22%",
     "time": 431,
-    "timeDay": 238,
-    "timeWeek": 391,
-    "timeMonth": 428,
+    "timeDay": 295,
+    "timeWeek": 393,
+    "timeMonth": 427,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-09-05": 26,
@@ -1348,7 +1348,7 @@
       "2026-06-15": 77,
       "2026-06-17": 44,
       "2026-07-16": 192,
-      "2026-08-03": 10
+      "2026-08-03": 39
     }
   },
   {
@@ -1356,16 +1356,16 @@
     "url": "https://safe-transaction-mantle.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/5000/chain_logo.png",
     "slug": "safe-tx-service-mantle",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.38%",
     "time": 501,
-    "timeDay": 243,
-    "timeWeek": 402,
-    "timeMonth": 433,
+    "timeDay": 339,
+    "timeWeek": 414,
+    "timeMonth": 436,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2025-12-15": 31,
@@ -1430,7 +1430,7 @@
       "2026-06-17": 43,
       "2026-06-20": 38,
       "2026-07-16": 191,
-      "2026-08-03": 10
+      "2026-08-03": 39
     }
   },
   {
@@ -1438,16 +1438,16 @@
     "url": "https://safe-transaction-sonic.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/146/chain_logo.png",
     "slug": "safe-tx-service-sonic",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.37%",
     "time": 389,
-    "timeDay": 243,
-    "timeWeek": 387,
-    "timeMonth": 439,
+    "timeDay": 326,
+    "timeWeek": 396,
+    "timeMonth": 440,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-11-23": 23,
@@ -1512,7 +1512,7 @@
       "2026-06-17": 43,
       "2026-07-06": 88,
       "2026-07-16": 191,
-      "2026-08-03": 10
+      "2026-08-03": 39
     }
   },
   {
@@ -1520,16 +1520,16 @@
     "url": "https://safe-transaction-ink.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/57073/chain_logo.png",
     "slug": "safe-tx-service-ink",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.31%",
     "time": 352,
-    "timeDay": 241,
-    "timeWeek": 395,
-    "timeMonth": 433,
+    "timeDay": 325,
+    "timeWeek": 404,
+    "timeMonth": 435,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2026-01-04": 62,
@@ -1589,7 +1589,7 @@
       "2026-06-17": 43,
       "2026-07-16": 191,
       "2026-07-21": 87,
-      "2026-08-03": 10
+      "2026-08-03": 38
     }
   },
   {
@@ -1597,15 +1597,15 @@
     "url": "https://safe-transaction-unichain.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/130/chain_logo.png",
     "slug": "safe-tx-service-unichain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.40%",
     "time": 361,
-    "timeDay": 263,
-    "timeWeek": 393,
+    "timeDay": 320,
+    "timeWeek": 397,
     "timeMonth": 434,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -1676,7 +1676,7 @@
       "2026-06-15": 76,
       "2026-06-17": 43,
       "2026-07-16": 191,
-      "2026-08-03": 10
+      "2026-08-03": 38
     }
   },
   {
@@ -1684,16 +1684,16 @@
     "url": "https://safe-transaction-berachain.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/80094/chain_logo.png",
     "slug": "safe-tx-service-berachain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.36%",
     "time": 360,
-    "timeDay": 240,
+    "timeDay": 324,
     "timeWeek": 487,
-    "timeMonth": 455,
+    "timeMonth": 456,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2025-12-29": 22,
@@ -1754,7 +1754,7 @@
       "2026-06-15": 76,
       "2026-06-17": 43,
       "2026-07-16": 191,
-      "2026-08-03": 10
+      "2026-08-03": 38
     }
   },
   {
@@ -1762,15 +1762,15 @@
     "url": "https://safe-transaction-lens.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/232/chain_logo.png",
     "slug": "safe-tx-service-lens",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.54%",
+    "status": "up",
+    "uptime": "94.90%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "93.56%",
     "time": 353,
-    "timeDay": 245,
-    "timeWeek": 392,
+    "timeDay": 305,
+    "timeWeek": 395,
     "timeMonth": 430,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -1860,7 +1860,7 @@
       "2026-06-15": 75,
       "2026-06-17": 43,
       "2026-07-16": 191,
-      "2026-08-03": 9
+      "2026-08-03": 38
     }
   },
   {
@@ -1868,16 +1868,16 @@
     "url": "https://safe-transaction-hemi.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/43111/chain_logo.png",
     "slug": "safe-tx-service-hemi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.33%",
-    "time": 333,
-    "timeDay": 240,
-    "timeWeek": 408,
-    "timeMonth": 436,
+    "time": 334,
+    "timeDay": 336,
+    "timeWeek": 419,
+    "timeMonth": 438,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2026-01-02": 9,
@@ -1939,7 +1939,7 @@
       "2026-06-15": 75,
       "2026-06-17": 42,
       "2026-07-16": 190,
-      "2026-08-03": 9
+      "2026-08-03": 38
     }
   },
   {
@@ -1947,16 +1947,16 @@
     "url": "https://safe-transaction-katana.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/747474/chain_logo.png",
     "slug": "safe-tx-service-katana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.36%",
     "time": 364,
-    "timeDay": 357,
-    "timeWeek": 413,
-    "timeMonth": 434,
+    "timeDay": 366,
+    "timeWeek": 412,
+    "timeMonth": 433,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-11-24": 12,
@@ -2023,7 +2023,7 @@
       "2026-06-15": 75,
       "2026-06-17": 42,
       "2026-07-16": 190,
-      "2026-08-03": 63
+      "2026-08-03": 91
     }
   },
   {
@@ -2031,16 +2031,16 @@
     "url": "https://safe-transaction-peaq.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/3338/chain_logo.png",
     "slug": "safe-tx-service-peaq",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.37%",
     "time": 347,
-    "timeDay": 257,
+    "timeDay": 306,
     "timeWeek": 399,
-    "timeMonth": 427,
+    "timeMonth": 426,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-12-22": 9,
@@ -2108,7 +2108,7 @@
       "2026-06-15": 75,
       "2026-06-17": 42,
       "2026-07-16": 190,
-      "2026-08-03": 9
+      "2026-08-03": 37
     }
   },
   {
@@ -2116,16 +2116,16 @@
     "url": "https://safe-transaction-codex.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/81224/chain_logo.png",
     "slug": "safe-tx-service-codex",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.34%",
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.33%",
     "time": 331,
-    "timeDay": 245,
-    "timeWeek": 388,
-    "timeMonth": 426,
+    "timeDay": 326,
+    "timeWeek": 398,
+    "timeMonth": 428,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2026-01-12": 16,
@@ -2184,7 +2184,7 @@
       "2026-06-17": 42,
       "2026-07-06": 87,
       "2026-07-16": 190,
-      "2026-08-03": 9
+      "2026-08-03": 37
     }
   },
   {
@@ -2192,16 +2192,16 @@
     "url": "https://safe-transaction-monad.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/143/chain_logo.png",
     "slug": "safe-tx-service-monad",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.35%",
     "time": 334,
-    "timeDay": 246,
-    "timeWeek": 387,
-    "timeMonth": 426,
+    "timeDay": 366,
+    "timeWeek": 407,
+    "timeMonth": 431,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-12-29": 7,
@@ -2262,7 +2262,7 @@
       "2026-06-15": 75,
       "2026-06-17": 42,
       "2026-07-16": 190,
-      "2026-08-03": 9
+      "2026-08-03": 37
     }
   },
   {
@@ -2270,16 +2270,16 @@
     "url": "https://safe-transaction-opbnb.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/204/chain_logo.png",
     "slug": "safe-tx-service-op-bnb",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.30%",
     "time": 330,
-    "timeDay": 242,
-    "timeWeek": 388,
-    "timeMonth": 421,
+    "timeDay": 375,
+    "timeWeek": 411,
+    "timeMonth": 427,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2025-12-16": 7,
@@ -2344,7 +2344,7 @@
       "2026-06-15": 74,
       "2026-06-17": 41,
       "2026-07-16": 189,
-      "2026-08-03": 9
+      "2026-08-03": 37
     }
   },
   {
@@ -2352,16 +2352,16 @@
     "url": "https://safe-transaction-botanix.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/3637/chain_logo.png",
     "slug": "safe-tx-service-botanix",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.30%",
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.29%",
     "time": 340,
-    "timeDay": 389,
-    "timeWeek": 791,
-    "timeMonth": 529,
+    "timeDay": 447,
+    "timeWeek": 770,
+    "timeMonth": 530,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2026-01-10": 8,
@@ -2419,7 +2419,7 @@
       "2026-06-15": 74,
       "2026-06-17": 41,
       "2026-07-16": 189,
-      "2026-08-03": 8
+      "2026-08-03": 37
     }
   },
   {
@@ -2427,16 +2427,16 @@
     "url": "https://safe-transaction-xdc.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/50/chain_logo.png",
     "slug": "safe-tx-service-xdc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.32%",
     "time": 334,
-    "timeDay": 394,
-    "timeWeek": 422,
-    "timeMonth": 441,
+    "timeDay": 506,
+    "timeWeek": 450,
+    "timeMonth": 448,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2025-12-21": 9,
@@ -2505,7 +2505,7 @@
       "2026-06-17": 41,
       "2026-07-16": 189,
       "2026-07-25": 64,
-      "2026-08-03": 8
+      "2026-08-03": 36
     }
   },
   {
@@ -2513,16 +2513,16 @@
     "url": "https://api.safe.global/tx-service/plasma/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/9745/chain_logo.png",
     "slug": "safe-tx-service-plasma",
-    "status": "down",
-    "uptime": "97.87%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "97.87%",
+    "status": "up",
+    "uptime": "97.86%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "97.86%",
     "time": 191,
-    "timeDay": 246,
-    "timeWeek": 363,
-    "timeMonth": 392,
+    "timeDay": 244,
+    "timeWeek": 352,
+    "timeMonth": 389,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-02-17": 42,
@@ -2556,7 +2556,7 @@
       "2026-06-17": 41,
       "2026-07-16": 189,
       "2026-07-25": 64,
-      "2026-08-03": 8
+      "2026-08-03": 36
     }
   },
   {
@@ -2564,16 +2564,16 @@
     "url": "https://api.safe.global/tx-service/0g/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/16661/chain_logo.png",
     "slug": "safe-tx-service-0g",
-    "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.72%",
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.71%",
     "time": 168,
-    "timeDay": 239,
-    "timeWeek": 373,
-    "timeMonth": 406,
+    "timeDay": 222,
+    "timeWeek": 356,
+    "timeMonth": 400,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-02-17": 272,
@@ -2604,7 +2604,7 @@
       "2026-06-15": 74,
       "2026-06-17": 41,
       "2026-07-16": 189,
-      "2026-08-03": 8
+      "2026-08-03": 36
     }
   },
   {
@@ -2612,16 +2612,16 @@
     "url": "https://api.safe.global/tx-service/stable/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/988/chain_logo.png",
     "slug": "safe-tx-service-stable",
-    "status": "down",
+    "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "98.62%",
     "time": 187,
-    "timeDay": 241,
-    "timeWeek": 385,
-    "timeMonth": 405,
+    "timeDay": 222,
+    "timeWeek": 366,
+    "timeMonth": 400,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2026-01-31": 113,
@@ -2670,7 +2670,7 @@
       "2026-06-17": 41,
       "2026-07-06": 87,
       "2026-07-16": 188,
-      "2026-08-03": 9
+      "2026-08-03": 36
     }
   },
   {
@@ -2678,16 +2678,16 @@
     "url": "https://api.safe.global/tx-service/monad-testnet/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/10143/chain_logo.png",
     "slug": "safe-tx-service-monad-testnet",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.23%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.22%",
     "time": 178,
-    "timeDay": 241,
-    "timeWeek": 366,
-    "timeMonth": 405,
+    "timeDay": 234,
+    "timeWeek": 353,
+    "timeMonth": 400,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-02-18": 637,
@@ -2717,7 +2717,7 @@
       "2026-06-15": 73,
       "2026-06-17": 40,
       "2026-07-16": 188,
-      "2026-08-03": 9
+      "2026-08-03": 36
     }
   },
   {
@@ -2725,16 +2725,16 @@
     "url": "https://api.safe.global/tx-service/hyper/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/999/chain_logo.png",
     "slug": "safe-tx-service-hyper-evm",
-    "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.80%",
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.79%",
     "time": 165,
-    "timeDay": 247,
-    "timeWeek": 374,
-    "timeMonth": 407,
+    "timeDay": 265,
+    "timeWeek": 367,
+    "timeMonth": 404,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-02-19": 222,
@@ -2764,7 +2764,7 @@
       "2026-06-15": 73,
       "2026-06-17": 40,
       "2026-07-16": 188,
-      "2026-08-03": 9
+      "2026-08-03": 35
     }
   },
   {
@@ -2772,16 +2772,16 @@
     "url": "https://api.safe.global/tx-service/mega/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/4326/chain_logo.png",
     "slug": "safe-tx-service-mega-eth",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "98.52%",
     "time": 175,
-    "timeDay": 242,
-    "timeWeek": 383,
-    "timeMonth": 400,
+    "timeDay": 221,
+    "timeWeek": 364,
+    "timeMonth": 394,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-02-10": 50,
@@ -2818,7 +2818,7 @@
       "2026-06-17": 40,
       "2026-07-16": 188,
       "2026-07-24": 90,
-      "2026-08-03": 9
+      "2026-08-03": 35
     }
   },
   {
@@ -2826,16 +2826,16 @@
     "url": "https://api.safe.global/tx-service/arc-testnet/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/5042002/chain_logo.png",
     "slug": "safe-tx-service-arc-testnet",
-    "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.43%",
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.42%",
     "time": 177,
-    "timeDay": 242,
-    "timeWeek": 385,
-    "timeMonth": 407,
+    "timeDay": 222,
+    "timeWeek": 366,
+    "timeMonth": 401,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-02-15": 88,
@@ -2867,7 +2867,7 @@
       "2026-06-15": 73,
       "2026-06-17": 40,
       "2026-07-16": 188,
-      "2026-08-03": 9
+      "2026-08-03": 35
     }
   },
   {
@@ -2875,16 +2875,16 @@
     "url": "https://api.safe.global/tx-service/ctc/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/102030/chain_logo.png",
     "slug": "safe-tx-service-creditcoin",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.02%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.01%",
     "time": 309,
-    "timeDay": 240,
-    "timeWeek": 378,
-    "timeMonth": 407,
+    "timeDay": 289,
+    "timeWeek": 379,
+    "timeMonth": 406,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2026-03-10": 53,
@@ -2909,7 +2909,7 @@
       "2026-06-15": 72,
       "2026-06-17": 40,
       "2026-07-16": 187,
-      "2026-08-03": 9
+      "2026-08-03": 35
     }
   },
   {
@@ -2917,16 +2917,16 @@
     "url": "https://api.safe.global/tx-service/mnt-sep/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/5003/chain_logo.png",
     "slug": "safe-tx-service-mantle-sepolia",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.05%",
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.04%",
     "time": 303,
-    "timeDay": 241,
-    "timeWeek": 381,
-    "timeMonth": 405,
+    "timeDay": 234,
+    "timeWeek": 366,
+    "timeMonth": 400,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-03-13": 18,
@@ -2948,7 +2948,7 @@
       "2026-06-15": 72,
       "2026-06-17": 39,
       "2026-07-16": 187,
-      "2026-08-03": 9
+      "2026-08-03": 35
     }
   },
   {
@@ -2956,16 +2956,16 @@
     "url": "https://api.safe.global/tx-service/tempo-moderato/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/42431/chain_logo.png",
     "slug": "safe-tx-service-tempo-moderato",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.97%",
     "time": 310,
-    "timeDay": 246,
-    "timeWeek": 384,
-    "timeMonth": 403,
+    "timeDay": 235,
+    "timeWeek": 368,
+    "timeMonth": 398,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2026-03-18": 146,
@@ -2988,7 +2988,7 @@
       "2026-06-15": 72,
       "2026-06-17": 39,
       "2026-07-16": 187,
-      "2026-08-03": 8
+      "2026-08-03": 35
     }
   },
   {
@@ -2996,17 +2996,17 @@
     "url": "https://api.safe.global/tx-service/tempo/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/4217/chain_logo.png",
     "slug": "safe-tx-service-tempo",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.03%",
-    "time": 308,
-    "timeDay": 242,
-    "timeWeek": 383,
-    "timeMonth": 401,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.01%",
+    "time": 307,
+    "timeDay": 234,
+    "timeWeek": 368,
+    "timeMonth": 397,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2026-03-20": 222,
       "2026-03-19": 122,
@@ -3027,7 +3027,7 @@
       "2026-06-15": 72,
       "2026-06-17": 39,
       "2026-07-16": 187,
-      "2026-08-03": 8
+      "2026-08-03": 34
     }
   },
   {
@@ -3035,17 +3035,17 @@
     "url": "https://api.safe.global/tx-service/fluent/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/25363/chain_logo.png",
     "slug": "safe-tx-service-fluent",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.13%",
-    "time": 309,
-    "timeDay": 242,
-    "timeWeek": 380,
-    "timeMonth": 400,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.11%",
+    "time": 308,
+    "timeDay": 232,
+    "timeWeek": 365,
+    "timeMonth": 395,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2026-06-03": 188,
       "2026-06-04": 74,
@@ -3060,7 +3060,7 @@
       "2026-06-15": 72,
       "2026-06-17": 39,
       "2026-07-16": 187,
-      "2026-08-03": 8
+      "2026-08-03": 34
     }
   },
   {
@@ -3068,17 +3068,17 @@
     "url": "https://api.safe.global/tx-service/robinhood-testnet/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/46630/chain_logo.png",
     "slug": "safe-tx-service-robinhood-testnet",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.05%",
-    "time": 316,
-    "timeDay": 240,
-    "timeWeek": 381,
-    "timeMonth": 394,
-    "timeYear": 316,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.03%",
+    "time": 315,
+    "timeDay": 220,
+    "timeWeek": 363,
+    "timeMonth": 388,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-05-04": 63,
       "2026-06-03": 188,
@@ -3094,7 +3094,7 @@
       "2026-06-15": 71,
       "2026-06-17": 39,
       "2026-07-16": 187,
-      "2026-08-03": 8
+      "2026-08-03": 34
     }
   },
   {
@@ -3102,16 +3102,16 @@
     "url": "https://api.safe.global/tx-service/pharos/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/1672/chain_logo.png",
     "slug": "safe-tx-service-pharos",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.90%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.88%",
     "time": 305,
-    "timeDay": 240,
-    "timeWeek": 382,
-    "timeMonth": 402,
+    "timeDay": 243,
+    "timeWeek": 369,
+    "timeMonth": 398,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-04-24": 141,
@@ -3128,7 +3128,7 @@
       "2026-06-15": 71,
       "2026-06-17": 39,
       "2026-07-16": 186,
-      "2026-08-03": 8
+      "2026-08-03": 34
     }
   },
   {
@@ -3136,17 +3136,17 @@
     "url": "https://api.safe.global/tx-service/celo-sep/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/11142220/chain_logo.png",
     "slug": "safe-tx-service-celo-sepolia",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.79%",
-    "time": 304,
-    "timeDay": 243,
-    "timeWeek": 382,
-    "timeMonth": 405,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.77%",
+    "time": 303,
+    "timeDay": 231,
+    "timeWeek": 366,
+    "timeMonth": 400,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-04-28": 173,
       "2026-06-03": 187,
@@ -3163,7 +3163,7 @@
       "2026-06-17": 38,
       "2026-06-30": 56,
       "2026-07-16": 186,
-      "2026-08-03": 7
+      "2026-08-03": 34
     }
   },
   {
@@ -3171,17 +3171,17 @@
     "url": "https://api.safe.global/tx-service/arc/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/5042/chain_logo.png",
     "slug": "safe-tx-service-arc",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.62%",
-    "time": 308,
-    "timeDay": 245,
-    "timeWeek": 383,
-    "timeMonth": 404,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.59%",
+    "time": 307,
+    "timeDay": 226,
+    "timeWeek": 365,
+    "timeMonth": 398,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2026-06-03": 187,
       "2026-06-04": 73,
@@ -3196,7 +3196,7 @@
       "2026-06-15": 71,
       "2026-06-17": 38,
       "2026-07-16": 186,
-      "2026-08-03": 7
+      "2026-08-03": 33
     }
   },
   {
@@ -3204,19 +3204,19 @@
     "url": "https://api.safe.global/tx-service/robinhood/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/4663/chain_logo.png",
     "slug": "safe-tx-service-robinhood",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 392,
-    "timeDay": 327,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 391,
+    "timeDay": 345,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-08-03": 7
+      "2026-08-03": 33
     }
   },
   {
@@ -3224,17 +3224,17 @@
     "url": "https://api.safe.global/tx-service/kairos/check/",
     "icon": "https://icons.llamao.fi/icons/chains/rsz_kaia.jpg",
     "slug": "safe-tx-service-kairos",
-    "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "96.98%",
-    "time": 297,
-    "timeDay": 237,
-    "timeWeek": 357,
-    "timeMonth": 386,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "96.96%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "96.96%",
+    "time": 296,
+    "timeDay": 231,
+    "timeWeek": 344,
+    "timeMonth": 382,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2026-05-29": 593,
       "2026-05-28": 881,
@@ -3251,7 +3251,7 @@
       "2026-06-15": 71,
       "2026-06-17": 38,
       "2026-07-16": 186,
-      "2026-08-03": 7
+      "2026-08-03": 33
     }
   },
   {
@@ -3259,17 +3259,17 @@
     "url": "https://api.safe.global/tx-service/kaia/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/8217/chain_logo.png",
     "slug": "safe-tx-service-kaia",
-    "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.24%",
-    "time": 371,
-    "timeDay": 364,
-    "timeWeek": 407,
-    "timeMonth": 414,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.20%",
+    "time": 369,
+    "timeDay": 308,
+    "timeWeek": 387,
+    "timeMonth": 409,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2026-06-12": 199,
       "2026-06-13": 36,
@@ -3277,7 +3277,7 @@
       "2026-06-15": 70,
       "2026-06-17": 38,
       "2026-07-16": 185,
-      "2026-08-03": 7
+      "2026-08-03": 33
     }
   },
   {
@@ -3285,21 +3285,21 @@
     "url": "https://api.safe.global/tx-service/bot/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/677/chain_logo.png",
     "slug": "safe-tx-service-botchain",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 407,
-    "timeDay": 245,
-    "timeWeek": 381,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 400,
+    "timeDay": 223,
+    "timeWeek": 363,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2026-07-07": 239,
       "2026-07-16": 185,
-      "2026-08-03": 6
+      "2026-08-03": 33
     }
   },
   {
@@ -3307,21 +3307,21 @@
     "url": "https://api.safe.global/tx-service/wch-sepolia/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/1874/chain_logo.png",
     "slug": "safe-tx-service-whitechain-sepolia",
-    "status": "down",
-    "uptime": "93.55%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "93.55%",
-    "time": 400,
-    "timeDay": 241,
-    "timeWeek": 373,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "93.45%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "93.45%",
+    "time": 392,
+    "timeDay": 234,
+    "timeWeek": 359,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2026-07-16": 798,
       "2026-07-15": 885,
-      "2026-08-03": 6
+      "2026-08-03": 32
     }
   },
   {
@@ -3329,20 +3329,20 @@
     "url": "https://api.safe.global/tx-service/adi/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/36900/chain_logo.png",
     "slug": "safe-tx-service-adi",
-    "status": "down",
-    "uptime": "91.92%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "91.92%",
-    "time": 350,
-    "timeDay": 241,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "status": "up",
+    "uptime": "91.42%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "91.42%",
+    "time": 326,
+    "timeDay": 222,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2026-07-31": 375,
-      "2026-08-03": 6
+      "2026-08-03": 32
     }
   }
 ]
