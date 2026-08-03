@@ -93,9 +93,6 @@ sites:
   - name: Safe Tx Service (OpBNB)
     url: https://safe-transaction-opbnb.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/204/chain_logo.png
-  - name: Safe Tx Service (Botanix)
-    url: https://safe-transaction-botanix.safe.global/check/
-    icon: https://safe-transaction-assets.safe.global/chains/3637/chain_logo.png
   - name: Safe Tx Service (XDC)
     url: https://safe-transaction-xdc.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/50/chain_logo.png
