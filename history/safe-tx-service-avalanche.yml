@@ -1,7 +1,7 @@
 url: https://safe-transaction-avalanche.safe.global/check/
-status: down
-code: 403
-responseTime: 216
-lastUpdated: 2026-08-04T16:45:06.570Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2026-08-04T17:20:52.596Z
 startTime: 2022-03-25T11:57:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
