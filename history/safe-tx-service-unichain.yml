@@ -1,7 +1,7 @@
 url: https://safe-transaction-unichain.safe.global/check/
-status: down
-code: 403
-responseTime: 23
-lastUpdated: 2026-08-06T06:31:25.281Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2026-08-06T07:26:50.405Z
 startTime: 2025-02-04T11:44:48.395Z
 generator: Upptime <https://github.com/upptime/upptime>
