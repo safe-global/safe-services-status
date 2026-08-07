@@ -3278,7 +3278,7 @@
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.93%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "98.80%",
     "time": 381,
     "timeDay": 468,
@@ -3346,18 +3346,18 @@
     "icon": "https://safe-transaction-assets.safe.global/chains/936485/chain_logo.png",
     "slug": "safe-tx-service-zenith-testnet",
     "status": "up",
-    "uptime": "3.61%",
-    "uptimeDay": "3.61%",
-    "uptimeWeek": "3.61%",
-    "uptimeMonth": "3.61%",
-    "uptimeYear": "3.61%",
+    "uptime": "2.40%",
+    "uptimeDay": "2.40%",
+    "uptimeWeek": "2.40%",
+    "uptimeMonth": "2.40%",
+    "uptimeYear": "2.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 5
+      "2026-08-07": 8
     }
   }
 ]
