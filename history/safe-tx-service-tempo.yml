@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/tempo/check/
 status: up
 code: 200
-responseTime: 461
-lastUpdated: 2026-08-09T23:06:46.576Z
+responseTime: 416
+lastUpdated: 2026-08-10T23:10:17.577Z
 startTime: 2026-03-19T20:50:55.701Z
 generator: Upptime <https://github.com/upptime/upptime>
