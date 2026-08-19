@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/kairos/check/
-status: up
-code: 200
-responseTime: 473
-lastUpdated: 2026-08-18T23:04:07.677Z
+status: down
+code: 503
+responseTime: 157
+lastUpdated: 2026-08-19T04:08:59.602Z
 startTime: 2026-05-28T09:18:51.609Z
 generator: Upptime <https://github.com/upptime/upptime>
