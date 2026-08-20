@@ -1,7 +1,7 @@
 url: https://api.safe.global/tx-service/robinhood/check/
-status: down
-code: 503
-responseTime: 198
-lastUpdated: 2026-08-20T16:41:19.814Z
+status: up
+code: 200
+responseTime: 497
+lastUpdated: 2026-08-20T16:56:43.049Z
 startTime: 2026-07-28T15:20:28.500Z
 generator: Upptime <https://github.com/upptime/upptime>
