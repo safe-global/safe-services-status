@@ -84,9 +84,6 @@ sites:
   - name: Safe Tx Service (Peaq)
     url: https://safe-transaction-peaq.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/3338/chain_logo.png
-  - name: Safe Tx Service (Codex)
-    url: https://safe-transaction-codex.safe.global/check/
-    icon: https://safe-transaction-assets.safe.global/chains/81224/chain_logo.png
   - name: Safe Tx Service (Monad)
     url: https://safe-transaction-monad.safe.global/check/
     icon: https://safe-transaction-assets.safe.global/chains/143/chain_logo.png
