@@ -2922,17 +2922,17 @@
     "url": "https://api.safe.global/tx-service/tempo/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/4217/chain_logo.png",
     "slug": "safe-tx-service-tempo",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.10%",
-    "time": 315,
-    "timeDay": 314,
-    "timeWeek": 404,
-    "timeMonth": 363,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.09%",
+    "time": 316,
+    "timeDay": 374,
+    "timeWeek": 413,
+    "timeMonth": 366,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-03-20": 222,
       "2026-03-19": 122,
@@ -2957,7 +2957,7 @@
       "2026-08-04": 30,
       "2026-08-06": 52,
       "2026-08-11": 38,
-      "2026-08-26": 5
+      "2026-08-26": 20
     }
   },
   {
