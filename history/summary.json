@@ -599,16 +599,16 @@
     "url": "https://safe-transaction-arbitrum.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/42161/chain_logo.png",
     "slug": "safe-tx-service-arbitrum",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.37%",
-    "time": 335,
-    "timeDay": 439,
-    "timeWeek": 444,
-    "timeMonth": 410,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.36%",
+    "time": 336,
+    "timeDay": 457,
+    "timeWeek": 449,
+    "timeMonth": 411,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-08-30": 7,
@@ -683,7 +683,7 @@
       "2026-08-07": 20,
       "2026-08-11": 44,
       "2026-08-20": 16,
-      "2026-08-29": 1
+      "2026-08-29": 30
     }
   },
   {
@@ -1706,16 +1706,16 @@
     "url": "https://safe-transaction-berachain.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/80094/chain_logo.png",
     "slug": "safe-tx-service-berachain",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.34%",
     "time": 362,
-    "timeDay": 444,
-    "timeWeek": 436,
-    "timeMonth": 419,
+    "timeDay": 462,
+    "timeWeek": 442,
+    "timeMonth": 421,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2026-01-02": 19,
@@ -1778,7 +1778,7 @@
       "2026-08-06": 55,
       "2026-08-07": 18,
       "2026-08-11": 41,
-      "2026-08-29": 2
+      "2026-08-29": 30
     }
   },
   {
