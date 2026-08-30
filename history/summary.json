@@ -349,16 +349,16 @@
     "url": "https://safe-transaction-base.safe.global/check/",
     "icon": "https://safe-transaction-assets.safe.global/chains/8453/chain_logo.png",
     "slug": "safe-tx-service-base-mainnet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.33%",
-    "time": 338,
-    "timeDay": 421,
-    "timeWeek": 433,
-    "timeMonth": 418,
+    "time": 339,
+    "timeDay": 446,
+    "timeWeek": 439,
+    "timeMonth": 419,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-12-29": 23,
@@ -422,7 +422,7 @@
       "2026-08-06": 58,
       "2026-08-07": 21,
       "2026-08-11": 44,
-      "2026-08-30": 1
+      "2026-08-30": 31
     }
   },
   {
